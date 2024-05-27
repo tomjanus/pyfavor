@@ -10,6 +10,13 @@ def main():
 @click.option("-c", "--confirm", is_flag=True, show_default=True, default=False)
 def create(confirm):
     """ """
-    print('dupa')
+    print("Empty create function")
+    
+@click.command()
+@click.option("-c", "--confirm", is_flag=True, show_default=True, default=False)
+def batch_create(confirm):
+    """ """
+    print("Empty batch-create function")
     
 main.add_command(create)
+main.add_command(batch_create)

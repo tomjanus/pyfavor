@@ -2,8 +2,8 @@
 from typing import List, Dict, Any, Literal
 import pandas as pd
 import wntr
-from utils import hr_to_sec, hr_to_min, find_os, install_package
-from simulate import get_junction_pressures
+from .utils import hr_to_sec, hr_to_min, find_os, install_package
+from .simulate import get_junction_pressures
 
 
 WNTRSimulationResults = wntr.sim.results.SimulationResults
