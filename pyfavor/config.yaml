@@ -1,0 +1,13 @@
+network:
+  inlet_valve: Valve_1
+  inlet_pipe: Pipe_1
+experiment:
+  measurement_period: 15 # minutes
+  step_period: 60 # minutes
+  flow_setting: 15min # Options are 15min or 1hr
+  start_hr: 3
+  end_hr: 6
+default:
+  network_file: networks/St_Servais_Centre_leak.inp
+  efavor_logger_file: efavor/e_FAVOR_St_Servais.xls
+  efavor_pressure_file: efavor/e_FAVOR_St_Servais_updated.xlsx
