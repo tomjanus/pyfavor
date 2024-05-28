@@ -1,5 +1,5 @@
 """ """
-from typing import List, Dict, Any, Literal
+from typing import List, Dict, Any, Literal, Tuple, Optional
 import pandas as pd
 import wntr
 from .utils import hr_to_sec, hr_to_min, find_os, install_package
@@ -62,29 +62,47 @@ def create_flows_df(
 def create_inlets_df(
         inlet_junction_id: Any, 
         id_to_junction_map: Dict[int, int], 
-        valve_id: Any) -> pd.DataFrame:
+        valve_id: Any,
+        pressure_setpoints: Optional[List[float]] = None) -> pd.DataFrame:
     """Create a dataframe containing information for efavor about inlets
     Args:
         inlet_junction_id: 
         id_to_junction_map:
         valve_id:
+        pressure_setpoints: list of pressure setpoints
     """
     epanet_ids = [junction_id for junction_id in [inlet_junction_id]]
     flowmeter_ids = [id_to_junction_map.get(value, value) for value in epanet_ids]
     set_of_inlets = ["A" for _ in flowmeter_ids]
-    setpoints = ["!!!TO BE SET MANUALLY!!!" for _ in flowmeter_ids]
     data = {
         'Flowmeter ID': flowmeter_ids,
         'EPANET valve ID': [valve_id],
-        'Set of inlets': set_of_inlets,
-        'PRV pressure setpoints [m]': setpoints
-    }    
+        'Set of inlets': set_of_inlets}
+    if pressure_setpoints is None:
+        setpoints = ["!!!TO BE SET MANUALLY!!!" for _ in flowmeter_ids]
+    else:
+        # Consider numerical values
+        try:
+            num_pressure_setpoints = len(pressure_setpoints)
+        except TypeError:
+            print(f"pressure_setpoints must be a list or None {type(pressure_setpoints)} given.")
+        if len(pressure_setpoints) == 1:
+            setpoints = [pressure_setpoints[0] for _ in flowmeter_ids]
+            data.update({'PRV pressure setpoints [m]': setpoints})
+        else: # len > 1
+            for ix, item in enumerate(pressure_setpoints):
+                setpoints = [item for _ in flowmeter_ids]
+                if ix == 0:
+                    data.update({'PRV pressure setpoints [m]': setpoints})
+                else:
+                    added_col_name = "p_"+str(ix+1)
+                    data.update({added_col_name: setpoints})
     return pd.DataFrame(data)
 
 
-def create_pressure_df(
+def create_pressures_df(
         junction_ids: List[str], 
-        results: WNTRSimulationResults, 
+        results, 
         n_meas: int,
         start_time: int,
         end_time: int,
@@ -108,6 +126,18 @@ def create_pressure_df(
     # Rename the column headers from EPANET Ids to EFavor Logger IDs
     pressure_df = pressure_df.rename(columns=epanet_to_logger_id_map)
     return pressure_df
+    
+    
+def read_pressure_setpoints(pressure_df: pd.DataFrame) -> List[float]:
+    """Reads pressure setpoints from pressure dataframe"""
+    first_column_name = "Logger ID → Set of inlets ↓"
+    # Find pressure setpoints - supports different step/measurement arrangments
+    filtered_df = pressure_df[
+        pressure_df[first_column_name].notna() & 
+        pressure_df[first_column_name].astype(bool)]
+    # Get values from the first column
+    pressure_setpoints = filtered_df.iloc[:,1].tolist()
+    return pressure_setpoints
 
 
 def write_efavor_pressures(
