@@ -9,6 +9,11 @@ EFAVOR is a software suite for locating bursts by active identification via moni
 
 This repository facilitates testing performance of EFAVOR on different network structures and experiment designs, where the actual network is replaced by a simulator.
 
+## Disclaimer
+This repository has been written to aide analysis in an engineering project where the users need to use a simulator in place of a real water distribution netowrk to evaluate the efficacy of an active burst detection method prior to real-world deployment. For such an analysis we need to automate some of the steps that would normally be done manually, such as recording pressures and flows in the experiment in excel tables, etc. and interact with EPANET simulator as if it were a physical network with/without bursts. 
+
+Since the aim was to quickly automate the analysis process, this source code is not finished. In particular, the command line functionality has not been implemented. The use of the software is permitted for everyone but I cannot guarantee its correctness. It may be buggy and incomplete in places.
+
 ## Usage
 The tool can be used either as a library (collection of functions) or as a command-line application. In the latter case, the library requires prior installation; see the next section.
 
