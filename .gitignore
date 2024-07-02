@@ -166,7 +166,8 @@ cython_debug/
 
 # Include all .inp files in the networks folder
 networks/*.inp
+!networks/test.inp
 
 # Exclude all files in efavor except one test file
 efavor/*
-!efavor/e_FAVOR_St_Servais.xls
+!efavor/e_FAVOR_test.xls

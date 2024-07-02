@@ -9,50 +9,50 @@
  J004            	91.477390   	0           	                	;
  J005            	91.838150   	0           	                	;
  J006            	91.115360   	0           	                	;
- J007            	92.013820   	0.000000    	P_StServaisCentreAll	;
+ J007            	92.013820   	0.000000    	Centre	;
  J008            	89.088430   	0           	                	;
  J009            	88.685600   	0           	                	;
  J010            	91.419080   	0           	                	;
  J011            	92.287880   	0           	                	;
  J012            	90.426090   	0           	                	;
- J013            	92.645660   	0.000000    	P_StServaisCentreAll	;
- J014            	92.795070   	0.014560    	P_StServaisCentreAll	;
- J015            	94.439480   	0.009100    	P_StServaisCentreAll	;
+ J013            	92.645660   	0.000000    	Centre	;
+ J014            	92.795070   	0.014560    	Centre	;
+ J015            	94.439480   	0.009100    	Centre	;
  J016            	99.504600   	0           	                	;
- J017            	92.537710   	0.022793    	P_StServaisCentreAll	;
+ J017            	92.537710   	0.022793    	Centre	;
  J018            	92.732350   	0           	                	;
- J019            	90.937330   	0.002860    	P_StServaisCentreAll	;
- J020            	88.729300   	0.027733    	P_StServaisCentreAll	;
+ J019            	90.937330   	0.002860    	Centre	;
+ J020            	88.729300   	0.027733    	Centre	;
  J021            	91.511380   	0           	                	;
  J022            	90.640820   	0           	                	;
- J023            	92.820660   	0.056073    	P_StServaisCentreAll	;
- J024            	91.979680   	0.000000    	P_StServaisCentreAll	;
- J025            	93.783870   	0.000000    	P_StServaisCentreAll	;
- J026            	97.396290   	0.000000    	P_StServaisCentreAll	;
+ J023            	92.820660   	0.056073    	Centre	;
+ J024            	91.979680   	0.000000    	Centre	;
+ J025            	93.783870   	0.000000    	Centre	;
+ J026            	97.396290   	0.000000    	Centre	;
  J027            	99.173000   	0           	                	;
  J028            	98.348440   	0           	                	;
- J029            	102.357100  	0.011007    	P_StServaisCentreAll	;
- J030            	121.764500  	0.009360    	P_StServaisCentreAll	;
- J031            	92.963670   	0.001907    	P_StServaisCentreAll	;
+ J029            	102.357100  	0.011007    	Centre	;
+ J030            	121.764500  	0.009360    	Centre	;
+ J031            	92.963670   	0.001907    	Centre	;
  J032            	94.056530   	0           	                	;
  J033            	101.898900  	0           	                	;
  J034            	109.104400  	0           	                	;
- J035            	101.398500  	0.015167    	P_StServaisCentreAll	;
+ J035            	101.398500  	0.015167    	Centre	;
  J036            	90.499410   	0           	                	;
- J037            	99.462700   	0.002340    	P_StServaisCentreAll	;
+ J037            	99.462700   	0.002340    	Centre	;
  J038            	90.849800   	0           	                	;
  J039            	90.472890   	0           	                	;
  J040            	90.264430   	0           	                	;
  J041            	90.934230   	0           	                	;
- J042            	104.590200  	0.029553    	P_StServaisCentreAll	;
+ J042            	104.590200  	0.029553    	Centre	;
  J043            	90.969830   	0           	                	;
  J044            	104.497200  	0           	                	;
- J045            	90.969830   	0.001127    	P_StServaisCentreAll	;
+ J045            	90.969830   	0.001127    	Centre	;
  J046            	90.592800   	0           	                	;
  J047            	93.018340   	0           	                	;
- J048            	93.012830   	0.017333    	P_StServaisCentreAll	;
+ J048            	93.012830   	0.017333    	Centre	;
  J049            	92.775980   	0           	                	;
- J050            	92.745830   	0.012740    	P_StServaisCentreAll	;
+ J050            	92.745830   	0.012740    	Centre	;
  J051            	91.260840   	0           	                	;
  J052            	91.260840   	0           	                	;
  J053            	90.240510   	0           	                	;
@@ -62,193 +62,193 @@
  J057            	89.594020   	0           	                	;
  J058            	89.088430   	0           	                	;
  J059            	101.068100  	0           	                	;
- J060            	104.386300  	0.015947    	P_StServaisCentreAll	;
- J061            	104.855800  	0.011093    	P_StServaisCentreAll	;
- J062            	102.709900  	0.029207    	P_StServaisCentreAll	;
+ J060            	104.386300  	0.015947    	Centre	;
+ J061            	104.855800  	0.011093    	Centre	;
+ J062            	102.709900  	0.029207    	Centre	;
  J063            	104.226200  	0           	                	;
- J064            	104.226200  	0.031893    	P_StServaisCentreAll	;
+ J064            	104.226200  	0.031893    	Centre	;
  J065            	103.730200  	0           	                	;
  J066            	103.837500  	0           	                	;
  J067            	101.780300  	0           	                	;
- J068            	103.463500  	0.003987    	P_StServaisCentreAll	;
+ J068            	103.463500  	0.003987    	Centre	;
  J069            	103.098600  	0           	                	;
- J070            	103.098600  	0.091433    	P_StServaisCentreAll	;
+ J070            	103.098600  	0.091433    	Centre	;
  J071            	91.395870   	0           	                	;
  J072            	91.618190   	0           	                	;
  J073            	91.711490   	0           	                	;
- J074            	96.690380   	0.000000    	P_StServaisCentreAll	;
- J075            	100.594900  	0.013953    	P_StServaisCentreAll	;
- J076            	100.158500  	0.009967    	P_StServaisCentreAll	;
- J077            	100.633200  	0.027993    	P_StServaisCentreAll	;
+ J074            	96.690380   	0.000000    	Centre	;
+ J075            	100.594900  	0.013953    	Centre	;
+ J076            	100.158500  	0.009967    	Centre	;
+ J077            	100.633200  	0.027993    	Centre	;
  J078            	92.023560   	0           	                	;
- J079            	99.689000   	0.005200    	P_StServaisCentreAll	;
- J080            	93.792720   	0.010573    	P_StServaisCentreAll	;
+ J079            	99.689000   	0.005200    	Centre	;
+ J080            	93.792720   	0.010573    	Centre	;
  J081            	96.351090   	0           	                	;
  J082            	97.088100   	0           	                	;
  J083            	97.088100   	0           	                	;
  J084            	96.579670   	0           	                	;
- J085            	99.614900   	0.027993    	P_StServaisCentreAll	;
- J086            	96.596410   	0.011267    	P_StServaisCentreAll	;
+ J085            	99.614900   	0.027993    	Centre	;
+ J086            	96.596410   	0.011267    	Centre	;
  J087            	96.596410   	0           	                	;
- J088            	96.012090   	0.012307    	P_StServaisCentreAll	;
- J089            	100.647200  	0.037527    	P_StServaisCentreAll	;
+ J088            	96.012090   	0.012307    	Centre	;
+ J089            	100.647200  	0.037527    	Centre	;
  J090            	101.217100  	0           	                	;
- J091            	101.657300  	0.000000    	P_StServaisCentreAll	;
+ J091            	101.657300  	0.000000    	Centre	;
  J092            	101.657300  	0           	                	;
  J093            	101.859400  	0           	                	;
  J094            	101.756000  	0           	                	;
  J095            	101.449000  	0           	                	;
  J096            	101.339900  	0           	                	;
  J097            	100.701700  	0           	                	;
- J098            	100.714100  	0.074100    	P_StServaisCentreAll	;
+ J098            	100.714100  	0.074100    	Centre	;
  J099            	100.714100  	0           	                	;
  J100            	99.435800   	0           	                	;
- J101            	98.350430   	0.001907    	P_StServaisCentreAll	;
- J102            	97.358270   	0.055553    	P_StServaisCentreAll	;
+ J101            	98.350430   	0.001907    	Centre	;
+ J102            	97.358270   	0.055553    	Centre	;
  J103            	92.637110   	0           	                	;
  J104            	92.637110   	0           	                	;
  J105            	92.546590   	0           	                	;
  J106            	92.546590   	0           	                	;
- J107            	92.569770   	0.001560    	P_StServaisCentreAll	;
+ J107            	92.569770   	0.001560    	Centre	;
  J108            	91.921350   	0           	                	;
- J109            	92.603210   	0.000000    	P_StServaisCentreAll	;
+ J109            	92.603210   	0.000000    	Centre	;
  J110            	92.537710   	0           	                	;
- J111            	92.537710   	0.027733    	P_StServaisCentreAll	;
- J112            	92.255390   	0.011960    	P_StServaisCentreAll	;
- J113            	92.732350   	0.027560    	P_StServaisCentreAll	;
- J114            	90.937330   	0.023053    	P_StServaisCentreAll	;
+ J111            	92.537710   	0.027733    	Centre	;
+ J112            	92.255390   	0.011960    	Centre	;
+ J113            	92.732350   	0.027560    	Centre	;
+ J114            	90.937330   	0.023053    	Centre	;
  J115            	90.937330   	0           	                	;
  J116            	88.729300   	0           	                	;
  J117            	88.729300   	0           	                	;
- J118            	88.474350   	0.075313    	P_StServaisCentreAll	;
+ J118            	88.474350   	0.075313    	Centre	;
  J119            	89.337900   	0           	                	;
- J120            	92.545810   	0.000000    	P_StServaisCentreAll	;
- J121            	92.545810   	0.000000    	P_StServaisCentreAll	;
- J122            	92.022510   	0.020973    	P_StServaisCentreAll	;
- J123            	91.556590   	0.018807    	P_StServaisCentreAll	;
+ J120            	92.545810   	0.000000    	Centre	;
+ J121            	92.545810   	0.000000    	Centre	;
+ J122            	92.022510   	0.020973    	Centre	;
+ J123            	91.556590   	0.018807    	Centre	;
  J124            	92.549670   	0           	                	;
  J125            	92.023560   	0           	                	;
  J126            	90.382510   	0           	                	;
  J127            	94.704350   	0           	                	;
  J128            	92.840240   	0           	                	;
  J129            	93.086780   	0           	                	;
- J130            	92.662350   	0.076527    	P_StServaisCentreAll	;
- J131            	92.539020   	0.019153    	P_StServaisCentreAll	;
- J132            	92.329340   	0.029640    	P_StServaisCentreAll	;
+ J130            	92.662350   	0.076527    	Centre	;
+ J131            	92.539020   	0.019153    	Centre	;
+ J132            	92.329340   	0.029640    	Centre	;
  J133            	92.404710   	0           	                	;
  J134            	92.477400   	0           	                	;
- J135            	92.780560   	0.000000    	P_StServaisCentreAll	;
- J136            	95.465790   	0.009967    	P_StServaisCentreAll	;
- J137            	99.506700   	0.121333    	P_StServaisCentreAll	;
+ J135            	92.780560   	0.000000    	Centre	;
+ J136            	95.465790   	0.009967    	Centre	;
+ J137            	99.506700   	0.121333    	Centre	;
  J138            	99.506700   	0           	                	;
  J139            	99.506700   	0           	                	;
- J140            	99.637800   	0.000000    	P_StServaisCentreAll	;
+ J140            	99.637800   	0.000000    	Centre	;
  J141            	99.173000   	0           	                	;
  J142            	98.348440   	0           	                	;
  J143            	98.079560   	0           	                	;
  J144            	98.091170   	0           	                	;
- J145            	98.091170   	0.012827    	P_StServaisCentreAll	;
+ J145            	98.091170   	0.012827    	Centre	;
  J146            	95.859690   	0           	                	;
- J147            	93.468080   	0.000000    	P_StServaisCentreAll	;
- J148            	97.987820   	0.029380    	P_StServaisCentreAll	;
- J149            	97.745800   	0.000173    	P_StServaisCentreAll	;
+ J147            	93.468080   	0.000000    	Centre	;
+ J148            	97.987820   	0.029380    	Centre	;
+ J149            	97.745800   	0.000173    	Centre	;
  J150            	97.811110   	0           	                	;
  J151            	97.864040   	0           	                	;
  J152            	97.848850   	0           	                	;
  J153            	97.701220   	0           	                	;
  J154            	97.864530   	0           	                	;
  J155            	97.829350   	0           	                	;
- J156            	97.829350   	0.000000    	P_StServaisCentreAll	;
+ J156            	97.829350   	0.000000    	Centre	;
  J157            	97.858600   	0           	                	;
  J158            	97.829350   	0           	                	;
- J159            	97.894660   	0.005893    	P_StServaisCentreAll	;
+ J159            	97.894660   	0.005893    	Centre	;
  J160            	93.661770   	0           	                	;
  J161            	93.434980   	0           	                	;
  J162            	93.210010   	0           	                	;
  J163            	93.138780   	0           	                	;
- J164            	93.133750   	0.072020    	P_StServaisCentreAll	;
- J165            	98.550450   	0.012307    	P_StServaisCentreAll	;
- J166            	98.765990   	0.027387    	P_StServaisCentreAll	;
- J167            	98.765990   	0.039953    	P_StServaisCentreAll	;
- J168            	92.895030   	0.009880    	P_StServaisCentreAll	;
+ J164            	93.133750   	0.072020    	Centre	;
+ J165            	98.550450   	0.012307    	Centre	;
+ J166            	98.765990   	0.027387    	Centre	;
+ J167            	98.765990   	0.039953    	Centre	;
+ J168            	92.895030   	0.009880    	Centre	;
  J169            	93.017220   	0           	                	;
- J170            	99.660800   	0.029987    	P_StServaisCentreAll	;
- J171            	99.660800   	0.001647    	P_StServaisCentreAll	;
- J172            	92.839550   	0.022967    	P_StServaisCentreAll	;
+ J170            	99.660800   	0.029987    	Centre	;
+ J171            	99.660800   	0.001647    	Centre	;
+ J172            	92.839550   	0.022967    	Centre	;
  J173            	100.377100  	0           	                	;
- J174            	95.757840   	0.005547    	P_StServaisCentreAll	;
+ J174            	95.757840   	0.005547    	Centre	;
  J175            	95.859690   	0           	                	;
  J176            	95.322360   	0           	                	;
  J177            	95.776540   	0           	                	;
  J178            	96.480540   	0           	                	;
- J179            	95.776540   	0.052520    	P_StServaisCentreAll	;
+ J179            	95.776540   	0.052520    	Centre	;
  J180            	95.776540   	0           	                	;
- J181            	96.483240   	0.011787    	P_StServaisCentreAll	;
+ J181            	96.483240   	0.011787    	Centre	;
  J182            	97.138870   	0           	                	;
  J183            	97.138870   	0           	                	;
- J184            	97.005290   	0.000000    	P_StServaisCentreAll	;
+ J184            	97.005290   	0.000000    	Centre	;
  J185            	96.447200   	0           	                	;
  J186            	107.120300  	0           	                	;
  J187            	105.567900  	0           	                	;
- J188            	105.567900  	0.030073    	P_StServaisCentreAll	;
+ J188            	105.567900  	0.030073    	Centre	;
  J189            	95.380020   	0           	                	;
- J190            	104.306600  	0.003727    	P_StServaisCentreAll	;
- J191            	106.927100  	0.029033    	P_StServaisCentreAll	;
- J192            	104.901000  	0.049573    	P_StServaisCentreAll	;
- J193            	93.344690   	0.000000    	P_StServaisCentreAll	;
+ J190            	104.306600  	0.003727    	Centre	;
+ J191            	106.927100  	0.029033    	Centre	;
+ J192            	104.901000  	0.049573    	Centre	;
+ J193            	93.344690   	0.000000    	Centre	;
  J194            	93.344690   	0           	                	;
  J195            	93.289270   	0           	                	;
- J196            	93.549380   	0.000000    	P_StServaisCentreAll	;
- J197            	93.285260   	0.042813    	P_StServaisCentreAll	;
+ J196            	93.549380   	0.000000    	Centre	;
+ J197            	93.285260   	0.042813    	Centre	;
  J198            	94.644880   	0           	                	;
- J199            	95.230130   	0.013173    	P_StServaisCentreAll	;
- J200            	96.493900   	0.026347    	P_StServaisCentreAll	;
+ J199            	95.230130   	0.013173    	Centre	;
+ J200            	96.493900   	0.026347    	Centre	;
  J201            	94.915760   	0           	                	;
- J202            	115.403000  	0.019847    	P_StServaisCentreAll	;
- J203            	109.565900  	0.046107    	P_StServaisCentreAll	;
+ J202            	115.403000  	0.019847    	Centre	;
+ J203            	109.565900  	0.046107    	Centre	;
  J204            	108.514500  	0           	                	;
  J205            	105.378100  	0           	                	;
  J206            	104.726000  	0           	                	;
  J207            	105.378100  	0           	                	;
- J208            	101.003200  	0.005980    	P_StServaisCentreAll	;
+ J208            	101.003200  	0.005980    	Centre	;
  J209            	116.719700  	0           	                	;
  J210            	119.075400  	0           	                	;
  J211            	91.640400   	0           	                	;
  J212            	91.808830   	0           	                	;
- J213            	92.340420   	0.012133    	P_StServaisCentreAll	;
- J214            	112.402500  	0.022360    	P_StServaisCentreAll	;
- J215            	100.774600  	0.017593    	P_StServaisCentreAll	;
- J216            	101.898900  	0.015600    	P_StServaisCentreAll	;
+ J213            	92.340420   	0.012133    	Centre	;
+ J214            	112.402500  	0.022360    	Centre	;
+ J215            	100.774600  	0.017593    	Centre	;
+ J216            	101.898900  	0.015600    	Centre	;
  J217            	101.898900  	0           	                	;
- J218            	103.701600  	0.006847    	P_StServaisCentreAll	;
+ J218            	103.701600  	0.006847    	Centre	;
  J219            	102.238900  	0           	                	;
- J220            	102.703400  	0.046107    	P_StServaisCentreAll	;
+ J220            	102.703400  	0.046107    	Centre	;
  J221            	102.703400  	0           	                	;
  J222            	102.703400  	0           	                	;
- J223            	102.390800  	0.011787    	P_StServaisCentreAll	;
- J224            	110.800800  	0.021753    	P_StServaisCentreAll	;
+ J223            	102.390800  	0.011787    	Centre	;
+ J224            	110.800800  	0.021753    	Centre	;
  J225            	113.089500  	0           	                	;
- J226            	111.073200  	0.007020    	P_StServaisCentreAll	;
+ J226            	111.073200  	0.007020    	Centre	;
  J227            	97.177750   	0           	                	;
  J228            	96.865180   	0           	                	;
  J229            	96.552230   	0           	                	;
  J230            	111.073200  	0           	                	;VANNE
  J231            	111.073200  	0           	                	;VANNE
  J232            	112.402500  	0           	                	;VANNE
- J233            	113.129400  	0.028773    	P_StServaisCentreAll	;VANNE
- J234            	117.855500  	0.029033    	P_StServaisCentreAll	;VANNE FERMEE CONDAMNEE
- J235            	114.027200  	0.005633    	P_StServaisCentreAll	;VANNE
- J236            	115.299400  	0.006587    	P_StServaisCentreAll	;VANNE
+ J233            	113.129400  	0.028773    	Centre	;VANNE
+ J234            	117.855500  	0.029033    	Centre	;VANNE FERMEE CONDAMNEE
+ J235            	114.027200  	0.005633    	Centre	;VANNE
+ J236            	115.299400  	0.006587    	Centre	;VANNE
  J237            	116.719700  	0           	                	;VANNE
  J238            	116.775500  	0           	                	;VANNE FERMEE CONDAMNEE
  J239            	95.230130   	0           	                	;VANNE
- J240            	94.915760   	0.010660    	P_StServaisCentreAll	;VANNE
+ J240            	94.915760   	0.010660    	Centre	;VANNE
  J241            	94.915760   	0           	                	;VANNE
  J242            	99.506700   	0           	                	;VANNE
  J243            	99.506700   	0           	                	;VANNE
- J244            	99.154200   	0.038653    	P_StServaisCentreAll	;VANNE
- J245            	101.217100  	0.044373    	P_StServaisCentreAll	;VANNE
- J246            	101.657300  	0.000000    	P_StServaisCentreAll	;VANNE
+ J244            	99.154200   	0.038653    	Centre	;VANNE
+ J245            	101.217100  	0.044373    	Centre	;VANNE
+ J246            	101.657300  	0.000000    	Centre	;VANNE
  J247            	92.775980   	0           	                	;VANNE
  J248            	91.395870   	0           	                	;VANNE
  J249            	91.395870   	0           	                	;VANNE
@@ -258,36 +258,36 @@
  J253            	96.611620   	0           	                	;VANNE
  J254            	107.120300  	0           	                	;VANNE FERMEE CONDAMNEE
  J255            	105.567900  	0           	                	;VANNE
- J256            	95.380020   	0.000000    	P_StServaisCentreAll	;VANNE
+ J256            	95.380020   	0.000000    	Centre	;VANNE
  J257            	97.483430   	0           	                	;VANNE FERMEE
  J258            	95.380020   	0           	                	;VANNE FERMEE
  J259            	104.901000  	0           	                	;VANNE
  J260            	107.120300  	0           	                	;VANNE FERMEE CONDAMNEE
- J261            	115.403000  	0.021667    	P_StServaisCentreAll	;VANNE
- J262            	115.347700  	0.004940    	P_StServaisCentreAll	;VANNE
+ J261            	115.403000  	0.021667    	Centre	;VANNE
+ J262            	115.347700  	0.004940    	Centre	;VANNE
  J263            	109.565900  	0           	                	;VANNE FERMEE CONDAMNEE
- J264            	108.265400  	0.006587    	P_StServaisCentreAll	;VANNE
- J265            	105.378100  	0.022187    	P_StServaisCentreAll	;VANNE
- J266            	104.726000  	0.000953    	P_StServaisCentreAll	;VANNE
+ J264            	108.265400  	0.006587    	Centre	;VANNE
+ J265            	105.378100  	0.022187    	Centre	;VANNE
+ J266            	104.726000  	0.000953    	Centre	;VANNE
  J267            	105.378100  	0           	                	;VANNE
- J268            	104.017100  	0.042207    	P_StServaisCentreAll	;VANNE
- J269            	104.679100  	0.020627    	P_StServaisCentreAll	;VANNE
+ J268            	104.017100  	0.042207    	Centre	;VANNE
+ J269            	104.679100  	0.020627    	Centre	;VANNE
  J270            	101.068100  	0           	                	;VANNE
- J271            	101.068100  	0.028253    	P_StServaisCentreAll	;VANNE
+ J271            	101.068100  	0.028253    	Centre	;VANNE
  J272            	101.068100  	0           	                	;VANNE
  J273            	104.386300  	0           	                	;VANNE
- J274            	100.633200  	0.014560    	P_StServaisCentreAll	;VANNE
- J275            	100.158500  	0.019847    	P_StServaisCentreAll	;VANNE
- J276            	100.619000  	0.063007    	P_StServaisCentreAll	;VANNE
- J277            	99.689000   	0.010140    	P_StServaisCentreAll	;VANNE
- J278            	102.709900  	0.006500    	P_StServaisCentreAll	;VANNE
- J279            	97.088100   	0.045240    	P_StServaisCentreAll	;VANNE
+ J274            	100.633200  	0.014560    	Centre	;VANNE
+ J275            	100.158500  	0.019847    	Centre	;VANNE
+ J276            	100.619000  	0.063007    	Centre	;VANNE
+ J277            	99.689000   	0.010140    	Centre	;VANNE
+ J278            	102.709900  	0.006500    	Centre	;VANNE
+ J279            	97.088100   	0.045240    	Centre	;VANNE
  J280            	97.088100   	0           	                	;VANNE
- J281            	103.098600  	0.047233    	P_StServaisCentreAll	;VANNE
+ J281            	103.098600  	0.047233    	Centre	;VANNE
  J282            	103.098600  	0           	                	;VANNE
  J283            	98.336650   	0           	                	;VANNE
  J284            	98.336650   	0           	                	;VANNE
- J285            	102.246800  	0.018980    	P_StServaisCentreAll	;VANNE
+ J285            	102.246800  	0.018980    	Centre	;VANNE
  J286            	101.859400  	0           	                	;VANNE
  J287            	101.449000  	0           	                	;VANNE
  J288            	100.701700  	0           	                	;VANNE
@@ -299,10 +299,10 @@
  J294            	89.820490   	0           	                	;VANNE
  J295            	89.869230   	0           	                	;VANNE
  J296            	89.748410   	0           	                	;VANNE
- J297            	88.729300   	0.011700    	P_StServaisCentreAll	;VANNE
+ J297            	88.729300   	0.011700    	Centre	;VANNE
  J298            	88.600650   	0           	                	;VANNE
- J299            	99.305600   	0.056507    	P_StServaisCentreAll	;VANNE
- J300            	99.637800   	0.014733    	P_StServaisCentreAll	;VANNE
+ J299            	99.305600   	0.056507    	Centre	;VANNE
+ J300            	99.637800   	0.014733    	Centre	;VANNE
  J301            	99.173000   	0           	                	;VANNE
  J302            	98.348440   	0           	                	;VANNE
  J303            	98.091170   	0           	                	;VANNE
@@ -310,70 +310,70 @@
  J305            	97.987820   	0           	                	;VANNE
  J306            	97.993480   	0           	                	;VANNE
  J307            	98.079560   	0           	                	;VANNE
- J308            	97.912440   	0.000000    	P_StServaisCentreAll	;VANNE
+ J308            	97.912440   	0.000000    	Centre	;VANNE
  J309            	97.993480   	0           	                	;VANNE
- J310            	97.745800   	0.017767    	P_StServaisCentreAll	;VANNE
+ J310            	97.745800   	0.017767    	Centre	;VANNE
  J311            	97.745800   	0           	                	;VANNE
  J312            	97.811110   	0           	                	;VANNE
  J313            	97.822340   	0           	                	;VANNE
  J314            	97.848850   	0           	                	;VANNE
- J315            	97.701220   	0.000000    	P_StServaisCentreAll	;VANNE
- J316            	97.864530   	0.009533    	P_StServaisCentreAll	;VANNE
+ J315            	97.701220   	0.000000    	Centre	;VANNE
+ J316            	97.864530   	0.009533    	Centre	;VANNE
  J317            	97.864530   	0           	                	;VANNE
  J318            	97.829350   	0           	                	;VANNE
- J319            	97.829350   	0.075573    	P_StServaisCentreAll	;VANNE
+ J319            	97.829350   	0.075573    	Centre	;VANNE
  J320            	97.829350   	0           	                	;VANNE
- J321            	97.858600   	0.000000    	P_StServaisCentreAll	;VANNE
+ J321            	97.858600   	0.000000    	Centre	;VANNE
  J322            	97.829350   	0           	                	;VANNE
- J323            	95.465790   	0.002687    	P_StServaisCentreAll	;VANNE
+ J323            	95.465790   	0.002687    	Centre	;VANNE
  J324            	92.537710   	0           	                	;VANNE
- J325            	92.537710   	0.005113    	P_StServaisCentreAll	;VANNE
- J326            	92.379360   	0.017767    	P_StServaisCentreAll	;VANNE
+ J325            	92.537710   	0.005113    	Centre	;VANNE
+ J326            	92.379360   	0.017767    	Centre	;VANNE
  J327            	91.921350   	0           	                	;VANNE
  J328            	92.710930   	0           	                	;VANNE
- J329            	92.662350   	0.024613    	P_StServaisCentreAll	;VANNE
+ J329            	92.662350   	0.024613    	Centre	;VANNE
  J330            	92.659710   	0           	                	;VANNE
  J331            	92.743110   	0           	                	;VANNE
  J332            	93.086780   	0           	                	;VANNE
- J333            	92.978930   	0.000000    	P_StServaisCentreAll	;VANNE
- J334            	92.840240   	0.009187    	P_StServaisCentreAll	;VANNE
+ J333            	92.978930   	0.000000    	Centre	;VANNE
+ J334            	92.840240   	0.009187    	Centre	;VANNE
  J335            	92.637110   	0           	                	;VANNE
- J336            	92.569770   	0.099667    	P_StServaisCentreAll	;VANNE
+ J336            	92.569770   	0.099667    	Centre	;VANNE
  J337            	92.527800   	0           	                	;VANNE
  J338            	92.537710   	0           	                	;VANNE
- J339            	92.603210   	0.000000    	P_StServaisCentreAll	;VANNE
- J340            	91.942960   	0.084153    	P_StServaisCentreAll	;VANNE
- J341            	94.553370   	0.005893    	P_StServaisCentreAll	;VANNE
+ J339            	92.603210   	0.000000    	Centre	;VANNE
+ J340            	91.942960   	0.084153    	Centre	;VANNE
+ J341            	94.553370   	0.005893    	Centre	;VANNE
  J342            	95.014140   	0           	                	;VANNE
- J343            	95.250150   	0.026867    	P_StServaisCentreAll	;VANNE
+ J343            	95.250150   	0.026867    	Centre	;VANNE
  J344            	96.012090   	0           	                	;VANNE
  J345            	96.596410   	0           	                	;VANNE
  J346            	96.596410   	0           	                	;VANNE
  J347            	97.336630   	0           	                	;VANNE
  J348            	97.358270   	0           	                	;VANNE
- J349            	96.579670   	0.002600    	P_StServaisCentreAll	;VANNE
- J350            	96.351090   	0.013000    	P_StServaisCentreAll	;VANNE
- J351            	96.579670   	0.000693    	P_StServaisCentreAll	;VANNE
+ J349            	96.579670   	0.002600    	Centre	;VANNE
+ J350            	96.351090   	0.013000    	Centre	;VANNE
+ J351            	96.579670   	0.000693    	Centre	;VANNE
  J352            	91.701260   	0           	                	;VANNE
  J353            	92.022510   	0           	                	;VANNE
  J354            	90.640820   	0           	                	;VANNE
  J355            	92.549670   	0           	                	;VANNE
- J356            	92.203970   	0.022793    	P_StServaisCentreAll	;VANNE
+ J356            	92.203970   	0.022793    	Centre	;VANNE
  J357            	92.329340   	0           	                	;VANNE
  J358            	91.511380   	0           	                	;VANNE
  J359            	92.023560   	0           	                	;VANNE
- J360            	92.023560   	0.003727    	P_StServaisCentreAll	;VANNE
+ J360            	92.023560   	0.003727    	Centre	;VANNE
  J361            	92.023560   	0           	                	;VANNE
- J362            	92.404710   	0.012307    	P_StServaisCentreAll	;VANNE
+ J362            	92.404710   	0.012307    	Centre	;VANNE
  J363            	92.404710   	0           	                	;VANNE
- J364            	92.477400   	0.016553    	P_StServaisCentreAll	;VANNE
+ J364            	92.477400   	0.016553    	Centre	;VANNE
  J365            	92.670230   	0           	                	;VANNE
- J366            	92.780560   	0.000000    	P_StServaisCentreAll	;VANNE
- J367            	92.670230   	0.000000    	P_StServaisCentreAll	;VANNE
+ J366            	92.780560   	0.000000    	Centre	;VANNE
+ J367            	92.670230   	0.000000    	Centre	;VANNE
  J368            	92.546590   	0           	                	;VANNE
- J369            	90.434170   	0.014300    	P_StServaisCentreAll	;VANNE FERMEE
- J370            	90.937330   	0.016380    	P_StServaisCentreAll	;VANNE
- J371            	90.937330   	0.001993    	P_StServaisCentreAll	;VANNE
+ J369            	90.434170   	0.014300    	Centre	;VANNE FERMEE
+ J370            	90.937330   	0.016380    	Centre	;VANNE
+ J371            	90.937330   	0.001993    	Centre	;VANNE
  J372            	89.667300   	0           	                	;VANNE
  J373            	89.578380   	0           	                	;VANNE
  J374            	89.578380   	0           	                	;VANNE
@@ -381,12 +381,12 @@
  J376            	90.472890   	0           	                	;VANNE
  J377            	99.435800   	0           	                	;VANNE
  J378            	101.126100  	0           	                	;VANNE
- J379            	103.562500  	0.076180    	P_StServaisCentreAll	;VANNE
+ J379            	103.562500  	0.076180    	Centre	;VANNE
  J380            	103.610600  	0           	                	;VANNE
  J381            	102.906900  	0           	                	;VANNE
- J382            	103.730200  	0.028947    	P_StServaisCentreAll	;VANNE
+ J382            	103.730200  	0.028947    	Centre	;VANNE
  J383            	91.711490   	0           	                	;VANNE
- J384            	104.226200  	0.071587    	P_StServaisCentreAll	;VANNE
+ J384            	104.226200  	0.071587    	Centre	;VANNE
  J385            	104.226200  	0           	                	;VANNE
  J386            	99.462700   	0           	                	;VANNE
  J387            	90.499410   	0           	                	;VANNE
@@ -394,33 +394,33 @@
  J389            	90.592800   	0           	                	;VANNE FERMEE CONDAMNEE
  J390            	91.945590   	0           	                	;VANNE
  J391            	91.562380   	0           	                	;VANNE
- J392            	92.340420   	0.000693    	P_StServaisCentreAll	;VANNE
+ J392            	92.340420   	0.000693    	Centre	;VANNE
  J393            	92.545810   	0           	                	;VANNE
- J394            	96.690380   	0.000000    	P_StServaisCentreAll	;VANNE
+ J394            	96.690380   	0.000000    	Centre	;VANNE
  J395            	98.550450   	0           	                	;VANNE
  J396            	98.765990   	0           	                	;VANNE
  J397            	99.660800   	0           	                	;VANNE
  J398            	99.660800   	0           	                	;VANNE
- J399            	100.377100  	0.034233    	P_StServaisCentreAll	;VANNE
+ J399            	100.377100  	0.034233    	Centre	;VANNE
  J400            	100.377100  	0           	                	;VANNE
- J401            	100.377100  	0.009707    	P_StServaisCentreAll	;VANNE
- J402            	104.855800  	0.018807    	P_StServaisCentreAll	;VANNE
+ J401            	100.377100  	0.009707    	Centre	;VANNE
+ J402            	104.855800  	0.018807    	Centre	;VANNE
  J403            	104.497200  	0           	                	;VANNE
- J404            	104.497200  	0.010747    	P_StServaisCentreAll	;VANNE
- J405            	104.288500  	0.028253    	P_StServaisCentreAll	;VANNE
+ J404            	104.497200  	0.010747    	Centre	;VANNE
+ J405            	104.288500  	0.028253    	Centre	;VANNE
  J406            	91.640400   	0           	                	;VANNE
  J407            	91.808830   	0           	                	;VANNE
- J408            	91.592170   	0.000000    	P_StServaisCentreAll	;VANNE
+ J408            	91.592170   	0.000000    	Centre	;VANNE
  J409            	93.051670   	0           	                	;VANNE
  J410            	91.808830   	0           	                	;VANNE
- J411            	93.138780   	0.093427    	P_StServaisCentreAll	;VANNE
+ J411            	93.138780   	0.093427    	Centre	;VANNE
  J412            	93.133750   	0           	                	;VANNE
  J413            	93.133750   	0           	                	;VANNE
  J414            	96.213460   	0           	                	;VANNE
- J415            	95.538410   	0.037527    	P_StServaisCentreAll	;VANNE
+ J415            	95.538410   	0.037527    	Centre	;VANNE
  J416            	108.514500  	0           	                	;VANNE FERMEE CONDAMNEE
- J417            	105.378100  	0.000000    	P_StServaisCentreAll	;VANNE
- J418            	95.210560   	0.102613    	P_StServaisCentreAll	;VANNE
+ J417            	105.378100  	0.000000    	Centre	;VANNE
+ J418            	95.210560   	0.102613    	Centre	;VANNE
  J419            	93.468080   	0           	                	;VANNE
  J420            	93.376880   	0           	                	;VANNE
  J421            	93.289270   	0           	                	;VANNE
@@ -430,28 +430,28 @@
  J425            	95.230130   	0           	                	;VANNE
  J426            	97.138870   	0           	                	;VANNE
  J427            	97.138870   	0           	                	;VANNE FERMEE
- J428            	96.447200   	0.000000    	P_StServaisCentreAll	;VANNE
+ J428            	96.447200   	0.000000    	Centre	;VANNE
  J429            	95.865960   	0           	                	;VANNE
  J430            	97.005290   	0           	                	;VANNE
  J431            	97.005290   	0           	                	;VANNE
- J432            	96.480540   	0.000000    	P_StServaisCentreAll	;VANNE
- J433            	96.064930   	0.000000    	P_StServaisCentreAll	;VANNE
- J434            	95.776540   	0.000000    	P_StServaisCentreAll	;VANNE
+ J432            	96.480540   	0.000000    	Centre	;VANNE
+ J433            	96.064930   	0.000000    	Centre	;VANNE
+ J434            	95.776540   	0.000000    	Centre	;VANNE
  J435            	95.776540   	0           	                	;VANNE
- J436            	95.757840   	0.000867    	P_StServaisCentreAll	;VANNE
- J437            	95.859690   	0.003120    	P_StServaisCentreAll	;VANNE
- J438            	97.903240   	0.052260    	P_StServaisCentreAll	;VANNE
+ J436            	95.757840   	0.000867    	Centre	;VANNE
+ J437            	95.859690   	0.003120    	Centre	;VANNE
+ J438            	97.903240   	0.052260    	Centre	;VANNE
  J439            	101.898900  	0           	                	;VANNE
  J440            	101.898900  	0           	                	;VANNE
  J441            	101.898900  	0           	                	;VANNE
- J442            	100.774600  	0.007540    	P_StServaisCentreAll	;VANNE
- J443            	102.516300  	0.022880    	P_StServaisCentreAll	;VANNE
- J444            	102.238900  	0.005287    	P_StServaisCentreAll	;VANNE
- J445            	102.703400  	0.025047    	P_StServaisCentreAll	;VANNE
+ J442            	100.774600  	0.007540    	Centre	;VANNE
+ J443            	102.516300  	0.022880    	Centre	;VANNE
+ J444            	102.238900  	0.005287    	Centre	;VANNE
+ J445            	102.703400  	0.025047    	Centre	;VANNE
  J446            	102.703400  	0           	                	;VANNE
  J447            	102.703400  	0           	                	;VANNE
  J448            	109.971900  	0           	                	;VANNE
- J449            	111.948300  	0.007973    	P_StServaisCentreAll	;VANNE
+ J449            	111.948300  	0.007973    	Centre	;VANNE
  J450            	113.089500  	0           	                	;VANNE
  J451            	90.817680   	0           	                	;DL6516
  J452            	97.138870   	0           	                	;DL2357
@@ -461,35 +461,35 @@
  J456            	92.324410   	0           	                	;
  J457            	95.288470   	0           	                	;
  J458            	96.575330   	0           	                	;
- J459            	97.675460   	0.005460    	P_StServaisCentreAll	;
- J460            	97.038830   	0.013000    	P_StServaisCentreAll	;
+ J459            	97.675460   	0.005460    	Centre	;
+ J460            	97.038830   	0.013000    	Centre	;
  J461            	97.804150   	0           	                	;
- J462            	104.536700  	0.011527    	P_StServaisCentreAll	;
- J463            	98.550450   	0.099753    	P_StServaisCentreAll	;
+ J462            	104.536700  	0.011527    	Centre	;
+ J463            	98.550450   	0.099753    	Centre	;
  J464            	93.642980   	0           	                	;
  J465            	97.138870   	0           	                	;
  J466            	93.017840   	0           	                	;
  J467            	92.279750   	0           	                	;
- J468            	97.922620   	0.000000    	P_StServaisCentreAll	;
- J469            	97.336630   	0.003467    	P_StServaisCentreAll	;
+ J468            	97.922620   	0.000000    	Centre	;
+ J469            	97.336630   	0.003467    	Centre	;
  J470            	101.657300  	0           	                	;
  J471            	101.339900  	0           	                	;
- J472            	100.855200  	0.000000    	P_StServaisCentreAll	;
- J473            	98.336650   	0.141267    	P_StServaisCentreAll	;
+ J472            	100.855200  	0.000000    	Centre	;
+ J473            	98.336650   	0.141267    	Centre	;
  J474            	104.226200  	0           	                	;
  J475            	99.462700   	0           	                	;
  J476            	90.849800   	0           	                	;
- J477            	91.701260   	0.027733    	P_StServaisCentreAll	;
- J478            	116.887300  	0.003900    	P_StServaisCentreAll	;
- J479            	97.637950   	0.051740    	P_StServaisCentreAll	;
+ J477            	91.701260   	0.027733    	Centre	;
+ J478            	116.887300  	0.003900    	Centre	;
+ J479            	97.637950   	0.051740    	Centre	;
  J480            	96.611620   	0           	                	;
- J481            	104.901000  	0.005633    	P_StServaisCentreAll	;
- J482            	98.669330   	0.000000    	P_StServaisCentreAll	;
+ J481            	104.901000  	0.005633    	Centre	;
+ J482            	98.669330   	0.000000    	Centre	;
  J483            	94.182660   	0           	                	;
- J484            	95.653400   	0.058847    	P_StServaisCentreAll	;
- J485            	97.747530   	0.029987    	P_StServaisCentreAll	;
- J486            	93.049330   	0.011093    	P_StServaisCentreAll	;
- J487            	92.676340   	0.020107    	P_StServaisCentreAll	;
+ J484            	95.653400   	0.058847    	Centre	;
+ J485            	97.747530   	0.029987    	Centre	;
+ J486            	93.049330   	0.011093    	Centre	;
+ J487            	92.676340   	0.020107    	Centre	;
  J488            	90.240510   	0           	                	;SP  GERMINAL
  J489            	97.177750   	0           	                	;VANNE
  Junction_1      	97.138870   	0           	                	;
@@ -1037,1137 +1037,1137 @@
 
 [DEMANDS]
 ;Junction        	Demand      	Pattern         	Category
- J013            	0.000000    	P_StServaisCentreAll 	;            
- J013            	0.000000    	P_StServaisCentreAll 	;            
- J014            	0.014560    	P_StServaisCentreAll 	;            
- J014            	0.054947    	P_StServaisCentreAll 	;            
- J014            	0.026087    	P_StServaisCentreAll 	;            
- J014            	0.039087    	P_StServaisCentreAll 	;            
- J015            	0.009100    	P_StServaisCentreAll 	;            
- J015            	0.027907    	P_StServaisCentreAll 	;            
- J019            	0.002860    	P_StServaisCentreAll 	;            
- J019            	0.017160    	P_StServaisCentreAll 	;            
- J020            	0.027733    	P_StServaisCentreAll 	;            
- J020            	0.017593    	P_StServaisCentreAll 	;            
- J026            	0.000000    	P_StServaisCentreAll 	;            
- J026            	0.000000    	P_StServaisCentreAll 	;            
- J029            	0.011007    	P_StServaisCentreAll 	;            
- J029            	0.015600    	P_StServaisCentreAll 	;            
- J030            	0.009360    	P_StServaisCentreAll 	;            
- J030            	0.012393    	P_StServaisCentreAll 	;            
- J030            	0.018460    	P_StServaisCentreAll 	;            
- J030            	0.016380    	P_StServaisCentreAll 	;            
- J030            	0.000000    	P_StServaisCentreAll 	;            
- J030            	0.000000    	P_StServaisCentreAll 	;            
- J030            	0.014473    	P_StServaisCentreAll 	;            
- J030            	0.028600    	P_StServaisCentreAll 	;            
- J030            	0.000693    	P_StServaisCentreAll 	;            
- J031            	0.001907    	P_StServaisCentreAll 	;            
- J031            	0.003380    	P_StServaisCentreAll 	;            
- J031            	0.011353    	P_StServaisCentreAll 	;            
- J031            	0.017333    	P_StServaisCentreAll 	;            
- J031            	0.009447    	P_StServaisCentreAll 	;            
- J031            	0.005287    	P_StServaisCentreAll 	;            
- J031            	0.017940    	P_StServaisCentreAll 	;            
- J031            	0.017073    	P_StServaisCentreAll 	;            
- J031            	0.009447    	P_StServaisCentreAll 	;            
- J035            	0.015167    	P_StServaisCentreAll 	;            
- J035            	0.006240    	P_StServaisCentreAll 	;            
- J035            	0.011093    	P_StServaisCentreAll 	;            
- J035            	0.033713    	P_StServaisCentreAll 	;            
- J035            	0.031893    	P_StServaisCentreAll 	;            
- J035            	0.035187    	P_StServaisCentreAll 	;            
- J035            	0.003467    	P_StServaisCentreAll 	;            
- J037            	0.002340    	P_StServaisCentreAll 	;            
- J037            	0.000173    	P_StServaisCentreAll 	;            
- J037            	0.033020    	P_StServaisCentreAll 	;            
- J037            	0.036660    	P_StServaisCentreAll 	;            
- J050            	0.012740    	P_StServaisCentreAll 	;            
- J050            	0.007540    	P_StServaisCentreAll 	;            
- J050            	0.017160    	P_StServaisCentreAll 	;            
- J050            	0.005807    	P_StServaisCentreAll 	;            
- J050            	0.006327    	P_StServaisCentreAll 	;            
- J050            	0.013953    	P_StServaisCentreAll 	;            
- J060            	0.015947    	P_StServaisCentreAll 	;            
- J060            	0.029553    	P_StServaisCentreAll 	;            
- J060            	0.018373    	P_StServaisCentreAll 	;            
- J060            	0.015340    	P_StServaisCentreAll 	;            
- J060            	0.021667    	P_StServaisCentreAll 	;            
- J061            	0.011093    	P_StServaisCentreAll 	;            
- J061            	0.018633    	P_StServaisCentreAll 	;            
- J061            	0.011180    	P_StServaisCentreAll 	;            
- J061            	0.013520    	P_StServaisCentreAll 	;            
- J061            	0.023660    	P_StServaisCentreAll 	;            
- J062            	0.029207    	P_StServaisCentreAll 	;            
- J062            	0.045673    	P_StServaisCentreAll 	;            
- J062            	0.043593    	P_StServaisCentreAll 	;            
- J062            	0.016120    	P_StServaisCentreAll 	;            
- J062            	0.032673    	P_StServaisCentreAll 	;            
- J062            	0.050527    	P_StServaisCentreAll 	;            
- J062            	0.014040    	P_StServaisCentreAll 	;            
- J062            	0.037093    	P_StServaisCentreAll 	;            
- J064            	0.031893    	P_StServaisCentreAll 	;            
- J064            	0.005200    	P_StServaisCentreAll 	;            
- J064            	0.017853    	P_StServaisCentreAll 	;            
- J064            	0.009447    	P_StServaisCentreAll 	;            
- J064            	0.017767    	P_StServaisCentreAll 	;            
- J064            	0.026953    	P_StServaisCentreAll 	;            
- J064            	0.030073    	P_StServaisCentreAll 	;            
- J064            	0.017333    	P_StServaisCentreAll 	;            
- J064            	0.023833    	P_StServaisCentreAll 	;            
- J064            	0.011613    	P_StServaisCentreAll 	;            
- J064            	0.012480    	P_StServaisCentreAll 	;            
- J064            	0.010573    	P_StServaisCentreAll 	;            
- J064            	0.035447    	P_StServaisCentreAll 	;            
- J064            	0.013347    	P_StServaisCentreAll 	;            
- J068            	0.003987    	P_StServaisCentreAll 	;            
- J068            	0.010227    	P_StServaisCentreAll 	;            
- J068            	0.059020    	P_StServaisCentreAll 	;            
- J068            	0.009707    	P_StServaisCentreAll 	;            
- J068            	0.009707    	P_StServaisCentreAll 	;            
- J068            	0.190840    	P_StServaisCentreAll 	;            
- J068            	0.015513    	P_StServaisCentreAll 	;            
- J068            	0.100100    	P_StServaisCentreAll 	;            
- J068            	0.018980    	P_StServaisCentreAll 	;            
- J068            	0.023140    	P_StServaisCentreAll 	;            
- J074            	0.000000    	P_StServaisCentreAll 	;            
- J074            	0.000000    	P_StServaisCentreAll 	;            
- J074            	0.000000    	P_StServaisCentreAll 	;            
- J074            	0.000000    	P_StServaisCentreAll 	;            
- J074            	0.000000    	P_StServaisCentreAll 	;            
- J074            	0.000000    	P_StServaisCentreAll 	;            
- J074            	0.000000    	P_StServaisCentreAll 	;            
- J076            	0.009967    	P_StServaisCentreAll 	;            
- J076            	0.046280    	P_StServaisCentreAll 	;            
- J077            	0.027993    	P_StServaisCentreAll 	;            
- J077            	0.038133    	P_StServaisCentreAll 	;            
- J077            	0.023833    	P_StServaisCentreAll 	;            
- J077            	0.012653    	P_StServaisCentreAll 	;            
- J077            	0.006327    	P_StServaisCentreAll 	;            
- J079            	0.005200    	P_StServaisCentreAll 	;            
- J079            	0.000433    	P_StServaisCentreAll 	;            
- J079            	0.000433    	P_StServaisCentreAll 	;            
- J079            	0.017853    	P_StServaisCentreAll 	;            
- J079            	0.014300    	P_StServaisCentreAll 	;            
- J079            	0.013347    	P_StServaisCentreAll 	;            
- J079            	0.043160    	P_StServaisCentreAll 	;            
- J079            	0.037267    	P_StServaisCentreAll 	;            
- J080            	0.010573    	P_StServaisCentreAll 	;            
- J080            	0.044113    	P_StServaisCentreAll 	;            
- J080            	0.003120    	P_StServaisCentreAll 	;            
- J080            	0.004333    	P_StServaisCentreAll 	;            
- J080            	0.010573    	P_StServaisCentreAll 	;            
- J080            	0.000000    	P_StServaisCentreAll 	;            
- J080            	0.020540    	P_StServaisCentreAll 	;            
- J085            	0.027993    	P_StServaisCentreAll 	;            
- J085            	0.041427    	P_StServaisCentreAll 	;            
- J085            	0.017160    	P_StServaisCentreAll 	;            
- J085            	0.014213    	P_StServaisCentreAll 	;            
- J085            	0.015427    	P_StServaisCentreAll 	;            
- J085            	0.204880    	P_StServaisCentreAll 	;            
- J085            	0.022013    	P_StServaisCentreAll 	;            
- J085            	0.032240    	P_StServaisCentreAll 	;            
- J085            	0.006847    	P_StServaisCentreAll 	;            
- J086            	0.011267    	P_StServaisCentreAll 	;            
- J086            	0.031113    	P_StServaisCentreAll 	;            
- J088            	0.012307    	P_StServaisCentreAll 	;            
- J088            	0.043333    	P_StServaisCentreAll 	;            
- J088            	0.000433    	P_StServaisCentreAll 	;            
- J089            	0.037527    	P_StServaisCentreAll 	;            
- J089            	0.032587    	P_StServaisCentreAll 	;            
- J089            	0.079993    	P_StServaisCentreAll 	;            
- J089            	0.006847    	P_StServaisCentreAll 	;            
- J089            	0.010833    	P_StServaisCentreAll 	;            
- J089            	0.025480    	P_StServaisCentreAll 	;            
- J089            	0.027387    	P_StServaisCentreAll 	;            
- J089            	0.023747    	P_StServaisCentreAll 	;            
- J089            	0.096547    	P_StServaisCentreAll 	;            
- J089            	0.022360    	P_StServaisCentreAll 	;            
- J098            	0.074100    	P_StServaisCentreAll 	;            
- J098            	0.002340    	P_StServaisCentreAll 	;            
- J098            	0.007540    	P_StServaisCentreAll 	;            
- J101            	0.001907    	P_StServaisCentreAll 	;            
- J101            	0.017160    	P_StServaisCentreAll 	;            
- J101            	0.000000    	P_StServaisCentreAll 	;            
- J101            	0.048360    	P_StServaisCentreAll 	;            
- J101            	0.020367    	P_StServaisCentreAll 	;            
- J102            	0.055553    	P_StServaisCentreAll 	;            
- J102            	0.060927    	P_StServaisCentreAll 	;            
- J102            	0.021927    	P_StServaisCentreAll 	;            
- J102            	0.011180    	P_StServaisCentreAll 	;            
- J109            	0.000000    	P_StServaisCentreAll 	;            
- J109            	0.036053    	P_StServaisCentreAll 	;            
- J109            	0.044373    	P_StServaisCentreAll 	;            
- J111            	0.027733    	P_StServaisCentreAll 	;            
- J111            	0.046627    	P_StServaisCentreAll 	;            
- J111            	0.025827    	P_StServaisCentreAll 	;            
- J111            	0.020887    	P_StServaisCentreAll 	;            
- J111            	0.000173    	P_StServaisCentreAll 	;            
- J111            	0.071413    	P_StServaisCentreAll 	;            
- J111            	0.079560    	P_StServaisCentreAll 	;            
- J112            	0.011960    	P_StServaisCentreAll 	;            
- J112            	0.008320    	P_StServaisCentreAll 	;            
- J112            	0.018373    	P_StServaisCentreAll 	;            
- J113            	0.027560    	P_StServaisCentreAll 	;            
- J113            	0.037613    	P_StServaisCentreAll 	;            
- J113            	0.056680    	P_StServaisCentreAll 	;            
- J113            	0.000867    	P_StServaisCentreAll 	;            
- J113            	0.042900    	P_StServaisCentreAll 	;            
- J113            	0.005720    	P_StServaisCentreAll 	;            
- J113            	0.019153    	P_StServaisCentreAll 	;            
- J113            	0.001127    	P_StServaisCentreAll 	;            
- J113            	0.018113    	P_StServaisCentreAll 	;            
- J113            	0.000000    	P_StServaisCentreAll 	;            
- J113            	0.037267    	P_StServaisCentreAll 	;            
- J113            	0.018027    	P_StServaisCentreAll 	;            
- J113            	0.013607    	P_StServaisCentreAll 	;            
- J114            	0.023053    	P_StServaisCentreAll 	;            
- J114            	0.006327    	P_StServaisCentreAll 	;            
- J114            	0.040040    	P_StServaisCentreAll 	;            
- J114            	0.007800    	P_StServaisCentreAll 	;            
- J114            	0.075487    	P_StServaisCentreAll 	;            
- J114            	0.007800    	P_StServaisCentreAll 	;            
- J114            	0.000000    	P_StServaisCentreAll 	;            
- J114            	0.013953    	P_StServaisCentreAll 	;            
- J114            	0.027560    	P_StServaisCentreAll 	;            
- J114            	0.007367    	P_StServaisCentreAll 	;            
- J118            	0.075313    	P_StServaisCentreAll 	;            
- J118            	0.031980    	P_StServaisCentreAll 	;            
- J118            	0.077220    	P_StServaisCentreAll 	;            
- J118            	0.188673    	P_StServaisCentreAll 	;            
- J118            	0.023660    	P_StServaisCentreAll 	;            
- J121            	0.000000    	P_StServaisCentreAll 	;            
- J121            	0.070980    	P_StServaisCentreAll 	;            
- J122            	0.020973    	P_StServaisCentreAll 	;            
- J122            	0.134420    	P_StServaisCentreAll 	;            
- J122            	0.025393    	P_StServaisCentreAll 	;            
- J122            	0.007800    	P_StServaisCentreAll 	;            
- J122            	0.071327    	P_StServaisCentreAll 	;            
- J122            	0.067427    	P_StServaisCentreAll 	;            
- J123            	0.018807    	P_StServaisCentreAll 	;            
- J123            	0.045327    	P_StServaisCentreAll 	;            
- J131            	0.019153    	P_StServaisCentreAll 	;            
- J131            	0.022707    	P_StServaisCentreAll 	;            
- J131            	0.003727    	P_StServaisCentreAll 	;            
- J131            	0.022100    	P_StServaisCentreAll 	;            
- J131            	0.016987    	P_StServaisCentreAll 	;            
- J131            	0.011960    	P_StServaisCentreAll 	;            
- J131            	0.000000    	P_StServaisCentreAll 	;            
- J131            	0.018720    	P_StServaisCentreAll 	;            
- J132            	0.029640    	P_StServaisCentreAll 	;            
- J132            	0.085193    	P_StServaisCentreAll 	;            
- J132            	0.056853    	P_StServaisCentreAll 	;            
- J132            	0.163280    	P_StServaisCentreAll 	;            
- J132            	0.020627    	P_StServaisCentreAll 	;            
- J132            	0.030940    	P_StServaisCentreAll 	;            
- J132            	0.003900    	P_StServaisCentreAll 	;            
- J135            	0.000000    	P_StServaisCentreAll 	;            
- J135            	0.000000    	P_StServaisCentreAll 	;            
- J136            	0.009967    	P_StServaisCentreAll 	;            
- J136            	0.036053    	P_StServaisCentreAll 	;            
- J136            	0.003467    	P_StServaisCentreAll 	;            
- J136            	0.013953    	P_StServaisCentreAll 	;            
- J136            	0.041687    	P_StServaisCentreAll 	;            
- J136            	0.027300    	P_StServaisCentreAll 	;            
- J136            	0.064393    	P_StServaisCentreAll 	;            
- J136            	0.036400    	P_StServaisCentreAll 	;            
- J136            	0.019500    	P_StServaisCentreAll 	;            
- J136            	0.015427    	P_StServaisCentreAll 	;            
- J136            	0.030680    	P_StServaisCentreAll 	;            
- J137            	0.121333    	P_StServaisCentreAll 	;            
- J137            	0.023747    	P_StServaisCentreAll 	;            
- J137            	0.017073    	P_StServaisCentreAll 	;            
- J137            	0.043420    	P_StServaisCentreAll 	;            
- J137            	0.012047    	P_StServaisCentreAll 	;            
- J137            	0.058153    	P_StServaisCentreAll 	;            
- J137            	0.015860    	P_StServaisCentreAll 	;            
- J137            	0.048533    	P_StServaisCentreAll 	;            
- J137            	0.014473    	P_StServaisCentreAll 	;            
- J137            	0.035013    	P_StServaisCentreAll 	;            
- J137            	0.012307    	P_StServaisCentreAll 	;            
- J137            	0.007887    	P_StServaisCentreAll 	;            
- J137            	0.055033    	P_StServaisCentreAll 	;            
- J137            	0.034927    	P_StServaisCentreAll 	;            
- J140            	0.000000    	P_StServaisCentreAll 	;            
- J140            	0.024873    	P_StServaisCentreAll 	;            
- J140            	0.000000    	P_StServaisCentreAll 	;            
- J140            	0.033540    	P_StServaisCentreAll 	;            
- J140            	0.000000    	P_StServaisCentreAll 	;            
- J140            	0.018373    	P_StServaisCentreAll 	;            
- J140            	0.108507    	P_StServaisCentreAll 	;            
- J140            	0.021667    	P_StServaisCentreAll 	;            
- J140            	0.018720    	P_StServaisCentreAll 	;            
- J140            	0.016120    	P_StServaisCentreAll 	;            
- J140            	0.060493    	P_StServaisCentreAll 	;            
- J140            	0.055207    	P_StServaisCentreAll 	;            
- J145            	0.012827    	P_StServaisCentreAll 	;            
- J145            	0.020887    	P_StServaisCentreAll 	;            
- J145            	0.013000    	P_StServaisCentreAll 	;            
- J145            	0.039520    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.021580    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J147            	0.000000    	P_StServaisCentreAll 	;            
- J148            	0.029380    	P_StServaisCentreAll 	;            
- J148            	0.007973    	P_StServaisCentreAll 	;            
- J148            	0.019673    	P_StServaisCentreAll 	;            
- J148            	0.023660    	P_StServaisCentreAll 	;            
- J148            	0.019153    	P_StServaisCentreAll 	;            
- J148            	0.015253    	P_StServaisCentreAll 	;            
- J148            	0.012480    	P_StServaisCentreAll 	;            
- J148            	0.023140    	P_StServaisCentreAll 	;            
- J148            	0.013520    	P_StServaisCentreAll 	;            
- J148            	0.019933    	P_StServaisCentreAll 	;            
- J148            	0.030247    	P_StServaisCentreAll 	;            
- J148            	0.023227    	P_StServaisCentreAll 	;            
- J148            	0.021407    	P_StServaisCentreAll 	;            
- J148            	0.014387    	P_StServaisCentreAll 	;            
- J148            	0.028427    	P_StServaisCentreAll 	;            
- J148            	0.026867    	P_StServaisCentreAll 	;            
- J148            	0.031633    	P_StServaisCentreAll 	;            
- J148            	0.005113    	P_StServaisCentreAll 	;            
- J148            	0.003467    	P_StServaisCentreAll 	;            
- J148            	0.015860    	P_StServaisCentreAll 	;            
- J148            	0.016120    	P_StServaisCentreAll 	;            
- J148            	0.031460    	P_StServaisCentreAll 	;            
- J148            	0.010833    	P_StServaisCentreAll 	;            
- J159            	0.005893    	P_StServaisCentreAll 	;            
- J159            	0.021580    	P_StServaisCentreAll 	;            
- J159            	0.041513    	P_StServaisCentreAll 	;            
- J159            	0.014647    	P_StServaisCentreAll 	;            
- J159            	0.007973    	P_StServaisCentreAll 	;            
- J159            	0.006587    	P_StServaisCentreAll 	;            
- J164            	0.072020    	P_StServaisCentreAll 	;            
- J164            	0.000000    	P_StServaisCentreAll 	;            
- J164            	0.017333    	P_StServaisCentreAll 	;            
- J164            	0.010833    	P_StServaisCentreAll 	;            
- J164            	0.017680    	P_StServaisCentreAll 	;            
- J164            	0.020453    	P_StServaisCentreAll 	;            
- J164            	0.014213    	P_StServaisCentreAll 	;            
- J164            	0.014560    	P_StServaisCentreAll 	;            
- J164            	0.038393    	P_StServaisCentreAll 	;            
- J164            	0.022793    	P_StServaisCentreAll 	;            
- J164            	0.014733    	P_StServaisCentreAll 	;            
- J164            	0.001647    	P_StServaisCentreAll 	;            
- J165            	0.012307    	P_StServaisCentreAll 	;            
- J165            	0.006847    	P_StServaisCentreAll 	;            
- J165            	0.043160    	P_StServaisCentreAll 	;            
- J167            	0.039953    	P_StServaisCentreAll 	;            
- J167            	0.017333    	P_StServaisCentreAll 	;            
- J168            	0.009880    	P_StServaisCentreAll 	;            
- J168            	0.011007    	P_StServaisCentreAll 	;            
- J168            	0.033280    	P_StServaisCentreAll 	;            
- J168            	0.028253    	P_StServaisCentreAll 	;            
- J170            	0.029987    	P_StServaisCentreAll 	;            
- J170            	0.032587    	P_StServaisCentreAll 	;            
- J171            	0.001647    	P_StServaisCentreAll 	;            
- J171            	0.007453    	P_StServaisCentreAll 	;            
- J171            	0.034927    	P_StServaisCentreAll 	;            
- J171            	0.024440    	P_StServaisCentreAll 	;            
- J171            	0.023313    	P_StServaisCentreAll 	;            
- J171            	0.000000    	P_StServaisCentreAll 	;            
- J172            	0.022967    	P_StServaisCentreAll 	;            
- J172            	0.007887    	P_StServaisCentreAll 	;            
- J172            	0.007540    	P_StServaisCentreAll 	;            
- J172            	0.015687    	P_StServaisCentreAll 	;            
- J172            	0.027213    	P_StServaisCentreAll 	;            
- J172            	0.024267    	P_StServaisCentreAll 	;            
- J174            	0.005547    	P_StServaisCentreAll 	;            
- J174            	0.015080    	P_StServaisCentreAll 	;            
- J174            	0.000607    	P_StServaisCentreAll 	;            
- J174            	0.013693    	P_StServaisCentreAll 	;            
- J174            	0.023140    	P_StServaisCentreAll 	;            
- J174            	0.004507    	P_StServaisCentreAll 	;            
- J174            	0.023313    	P_StServaisCentreAll 	;            
- J174            	0.005807    	P_StServaisCentreAll 	;            
- J174            	0.008927    	P_StServaisCentreAll 	;            
- J174            	0.013000    	P_StServaisCentreAll 	;            
- J174            	0.004767    	P_StServaisCentreAll 	;            
- J181            	0.011787    	P_StServaisCentreAll 	;            
- J181            	0.000953    	P_StServaisCentreAll 	;            
- J181            	0.009273    	P_StServaisCentreAll 	;            
- J181            	0.021840    	P_StServaisCentreAll 	;            
- J181            	0.008667    	P_StServaisCentreAll 	;            
- J181            	0.000000    	P_StServaisCentreAll 	;            
- J184            	0.000000    	P_StServaisCentreAll 	;            
- J184            	0.000000    	P_StServaisCentreAll 	;            
- J188            	0.030073    	P_StServaisCentreAll 	;            
- J188            	0.024180    	P_StServaisCentreAll 	;            
- J188            	0.023920    	P_StServaisCentreAll 	;            
- J190            	0.003727    	P_StServaisCentreAll 	;            
- J190            	0.008580    	P_StServaisCentreAll 	;            
- J190            	0.019847    	P_StServaisCentreAll 	;            
- J190            	0.007887    	P_StServaisCentreAll 	;            
- J190            	0.027560    	P_StServaisCentreAll 	;            
- J190            	0.012307    	P_StServaisCentreAll 	;            
- J190            	0.009013    	P_StServaisCentreAll 	;            
- J190            	0.016813    	P_StServaisCentreAll 	;            
- J190            	0.016987    	P_StServaisCentreAll 	;            
- J190            	0.021060    	P_StServaisCentreAll 	;            
- J190            	0.004767    	P_StServaisCentreAll 	;            
- J190            	0.010747    	P_StServaisCentreAll 	;            
- J190            	0.018980    	P_StServaisCentreAll 	;            
- J190            	0.034840    	P_StServaisCentreAll 	;            
- J190            	0.016293    	P_StServaisCentreAll 	;            
- J190            	0.012740    	P_StServaisCentreAll 	;            
- J190            	0.022967    	P_StServaisCentreAll 	;            
- J190            	0.011007    	P_StServaisCentreAll 	;            
- J190            	0.023140    	P_StServaisCentreAll 	;            
- J190            	0.016640    	P_StServaisCentreAll 	;            
- J190            	0.023660    	P_StServaisCentreAll 	;            
- J190            	0.008233    	P_StServaisCentreAll 	;            
- J190            	0.033280    	P_StServaisCentreAll 	;            
- J190            	0.008147    	P_StServaisCentreAll 	;            
- J191            	0.029033    	P_StServaisCentreAll 	;            
- J191            	0.011353    	P_StServaisCentreAll 	;            
- J191            	0.000867    	P_StServaisCentreAll 	;            
- J191            	0.010313    	P_StServaisCentreAll 	;            
- J191            	0.023487    	P_StServaisCentreAll 	;            
- J191            	0.041860    	P_StServaisCentreAll 	;            
- J191            	0.034840    	P_StServaisCentreAll 	;            
- J191            	0.027213    	P_StServaisCentreAll 	;            
- J191            	0.008320    	P_StServaisCentreAll 	;            
- J192            	0.049573    	P_StServaisCentreAll 	;            
- J192            	0.015860    	P_StServaisCentreAll 	;            
- J193            	0.000000    	P_StServaisCentreAll 	;            
- J193            	0.164667    	P_StServaisCentreAll 	;            
- J193            	0.268840    	P_StServaisCentreAll 	;            
- J193            	0.064220    	P_StServaisCentreAll 	;            
- J196            	0.000000    	P_StServaisCentreAll 	;            
- J196            	0.012307    	P_StServaisCentreAll 	;            
- J196            	0.007973    	P_StServaisCentreAll 	;            
- J197            	0.042813    	P_StServaisCentreAll 	;            
- J197            	0.008060    	P_StServaisCentreAll 	;            
- J197            	0.020453    	P_StServaisCentreAll 	;            
- J197            	0.000000    	P_StServaisCentreAll 	;            
- J197            	0.020887    	P_StServaisCentreAll 	;            
- J197            	0.005460    	P_StServaisCentreAll 	;            
- J197            	0.018027    	P_StServaisCentreAll 	;            
- J197            	0.033453    	P_StServaisCentreAll 	;            
- J197            	0.008060    	P_StServaisCentreAll 	;            
- J197            	0.024267    	P_StServaisCentreAll 	;            
- J197            	0.021407    	P_StServaisCentreAll 	;            
- J197            	0.000000    	P_StServaisCentreAll 	;            
- J197            	0.007973    	P_StServaisCentreAll 	;            
- J197            	0.074793    	P_StServaisCentreAll 	;            
- J197            	0.065953    	P_StServaisCentreAll 	;            
- J197            	0.012740    	P_StServaisCentreAll 	;            
- J197            	0.008320    	P_StServaisCentreAll 	;            
- J200            	0.026347    	P_StServaisCentreAll 	;            
- J200            	0.000693    	P_StServaisCentreAll 	;            
- J202            	0.019847    	P_StServaisCentreAll 	;            
- J202            	0.000000    	P_StServaisCentreAll 	;            
- J202            	0.036053    	P_StServaisCentreAll 	;            
- J202            	0.000173    	P_StServaisCentreAll 	;            
- J202            	0.030420    	P_StServaisCentreAll 	;            
- J203            	0.046107    	P_StServaisCentreAll 	;            
- J203            	0.000000    	P_StServaisCentreAll 	;            
- J203            	0.031027    	P_StServaisCentreAll 	;            
- J203            	0.000000    	P_StServaisCentreAll 	;            
- J203            	0.046973    	P_StServaisCentreAll 	;            
- J203            	0.036660    	P_StServaisCentreAll 	;            
- J203            	0.035187    	P_StServaisCentreAll 	;            
- J203            	0.047580    	P_StServaisCentreAll 	;            
- J208            	0.005980    	P_StServaisCentreAll 	;            
- J208            	0.120987    	P_StServaisCentreAll 	;            
- J208            	0.011960    	P_StServaisCentreAll 	;            
- J208            	0.082680    	P_StServaisCentreAll 	;            
- J208            	0.009273    	P_StServaisCentreAll 	;            
- J208            	0.000000    	P_StServaisCentreAll 	;            
- J208            	0.028427    	P_StServaisCentreAll 	;            
- J208            	0.000000    	P_StServaisCentreAll 	;            
- J208            	0.046020    	P_StServaisCentreAll 	;            
- J208            	0.077827    	P_StServaisCentreAll 	;            
- J208            	0.007800    	P_StServaisCentreAll 	;            
- J208            	0.006153    	P_StServaisCentreAll 	;            
- J208            	0.032673    	P_StServaisCentreAll 	;            
- J208            	0.038220    	P_StServaisCentreAll 	;            
- J208            	0.042900    	P_StServaisCentreAll 	;            
- J208            	0.008927    	P_StServaisCentreAll 	;            
- J208            	0.000000    	P_StServaisCentreAll 	;            
- J208            	0.042987    	P_StServaisCentreAll 	;            
- J208            	0.011960    	P_StServaisCentreAll 	;            
- J213            	0.012133    	P_StServaisCentreAll 	;            
- J213            	0.010227    	P_StServaisCentreAll 	;            
- J213            	0.004680    	P_StServaisCentreAll 	;            
- J213            	0.013867    	P_StServaisCentreAll 	;            
- J213            	0.080340    	P_StServaisCentreAll 	;            
- J213            	0.009360    	P_StServaisCentreAll 	;            
- J213            	0.020280    	P_StServaisCentreAll 	;            
- J214            	0.022360    	P_StServaisCentreAll 	;            
- J214            	0.018807    	P_StServaisCentreAll 	;            
- J214            	0.006587    	P_StServaisCentreAll 	;            
- J214            	0.009620    	P_StServaisCentreAll 	;            
- J214            	0.000000    	P_StServaisCentreAll 	;            
- J214            	0.000000    	P_StServaisCentreAll 	;            
- J215            	0.017593    	P_StServaisCentreAll 	;            
- J215            	0.010227    	P_StServaisCentreAll 	;            
- J218            	0.006847    	P_StServaisCentreAll 	;            
- J218            	0.013520    	P_StServaisCentreAll 	;            
- J218            	0.014820    	P_StServaisCentreAll 	;            
- J218            	0.013000    	P_StServaisCentreAll 	;            
- J218            	0.009707    	P_StServaisCentreAll 	;            
- J218            	0.018980    	P_StServaisCentreAll 	;            
- J218            	0.008060    	P_StServaisCentreAll 	;            
- J220            	0.046107    	P_StServaisCentreAll 	;            
- J220            	0.018027    	P_StServaisCentreAll 	;            
- J220            	0.031893    	P_StServaisCentreAll 	;            
- J220            	0.024700    	P_StServaisCentreAll 	;            
- J220            	0.000000    	P_StServaisCentreAll 	;            
- J220            	0.020107    	P_StServaisCentreAll 	;            
- J223            	0.011787    	P_StServaisCentreAll 	;            
- J223            	0.015860    	P_StServaisCentreAll 	;            
- J223            	0.017333    	P_StServaisCentreAll 	;            
- J223            	0.049313    	P_StServaisCentreAll 	;            
- J223            	0.051653    	P_StServaisCentreAll 	;            
- J223            	0.008667    	P_StServaisCentreAll 	;            
- J224            	0.021753    	P_StServaisCentreAll 	;            
- J224            	0.007280    	P_StServaisCentreAll 	;            
- J224            	0.006413    	P_StServaisCentreAll 	;            
- J224            	0.019327    	P_StServaisCentreAll 	;            
- J224            	0.015687    	P_StServaisCentreAll 	;            
- J224            	0.017767    	P_StServaisCentreAll 	;            
- J224            	0.025913    	P_StServaisCentreAll 	;            
- J226            	0.007020    	P_StServaisCentreAll 	;            
- J226            	0.018720    	P_StServaisCentreAll 	;            
- J226            	0.019847    	P_StServaisCentreAll 	;            
- J226            	0.017420    	P_StServaisCentreAll 	;            
- J226            	0.012567    	P_StServaisCentreAll 	;            
- J226            	0.024440    	P_StServaisCentreAll 	;            
- J226            	0.012047    	P_StServaisCentreAll 	;            
- J226            	0.035533    	P_StServaisCentreAll 	;            
- J226            	0.008580    	P_StServaisCentreAll 	;            
- J233            	0.028773    	P_StServaisCentreAll 	;            
- J233            	0.009447    	P_StServaisCentreAll 	;            
- J233            	0.006847    	P_StServaisCentreAll 	;            
- J233            	0.024440    	P_StServaisCentreAll 	;            
- J233            	0.015860    	P_StServaisCentreAll 	;            
- J233            	0.007193    	P_StServaisCentreAll 	;            
- J233            	0.025220    	P_StServaisCentreAll 	;            
- J233            	0.015427    	P_StServaisCentreAll 	;            
- J233            	0.023660    	P_StServaisCentreAll 	;            
- J233            	0.012827    	P_StServaisCentreAll 	;            
- J233            	0.018807    	P_StServaisCentreAll 	;            
- J233            	0.061793    	P_StServaisCentreAll 	;            
- J233            	0.012480    	P_StServaisCentreAll 	;            
- J233            	0.004940    	P_StServaisCentreAll 	;            
- J233            	0.000000    	P_StServaisCentreAll 	;            
- J233            	0.009013    	P_StServaisCentreAll 	;            
- J234            	0.029033    	P_StServaisCentreAll 	;            
- J234            	0.001560    	P_StServaisCentreAll 	;            
- J234            	0.010920    	P_StServaisCentreAll 	;            
- J234            	0.000000    	P_StServaisCentreAll 	;            
- J234            	0.011267    	P_StServaisCentreAll 	;            
- J235            	0.005633    	P_StServaisCentreAll 	;            
- J235            	0.023747    	P_StServaisCentreAll 	;            
- J235            	0.064393    	P_StServaisCentreAll 	;            
- J235            	0.004940    	P_StServaisCentreAll 	;            
- J235            	0.005893    	P_StServaisCentreAll 	;            
- J235            	0.005113    	P_StServaisCentreAll 	;            
- J235            	0.027733    	P_StServaisCentreAll 	;            
- J235            	0.000000    	P_StServaisCentreAll 	;            
- J235            	0.000000    	P_StServaisCentreAll 	;            
- J240            	0.010660    	P_StServaisCentreAll 	;            
- J240            	0.022273    	P_StServaisCentreAll 	;            
- J240            	0.017507    	P_StServaisCentreAll 	;            
- J240            	0.023660    	P_StServaisCentreAll 	;            
- J240            	0.004593    	P_StServaisCentreAll 	;            
- J240            	0.009620    	P_StServaisCentreAll 	;            
- J240            	0.003033    	P_StServaisCentreAll 	;            
- J246            	0.000000    	P_StServaisCentreAll 	;            
- J246            	0.000000    	P_StServaisCentreAll 	;            
- J246            	0.000000    	P_StServaisCentreAll 	;            
- J256            	0.000000    	P_StServaisCentreAll 	;            
- J256            	0.000000    	P_StServaisCentreAll 	;            
- J256            	0.000000    	P_StServaisCentreAll 	;            
- J256            	0.000000    	P_StServaisCentreAll 	;            
- J256            	0.000000    	P_StServaisCentreAll 	;            
- J256            	0.000000    	P_StServaisCentreAll 	;            
- J256            	0.000000    	P_StServaisCentreAll 	;            
- J256            	0.003207    	P_StServaisCentreAll 	;            
- J256            	0.022013    	P_StServaisCentreAll 	;            
- J256            	0.000000    	P_StServaisCentreAll 	;            
- J261            	0.021667    	P_StServaisCentreAll 	;            
- J261            	0.027820    	P_StServaisCentreAll 	;            
- J261            	0.018720    	P_StServaisCentreAll 	;            
- J261            	0.032153    	P_StServaisCentreAll 	;            
- J261            	0.003380    	P_StServaisCentreAll 	;            
- J261            	0.006327    	P_StServaisCentreAll 	;            
- J261            	0.035100    	P_StServaisCentreAll 	;            
- J261            	0.000000    	P_StServaisCentreAll 	;            
- J261            	0.033193    	P_StServaisCentreAll 	;            
- J261            	0.022447    	P_StServaisCentreAll 	;            
- J261            	0.025307    	P_StServaisCentreAll 	;            
- J261            	0.048273    	P_StServaisCentreAll 	;            
- J261            	0.010833    	P_StServaisCentreAll 	;            
- J261            	0.029640    	P_StServaisCentreAll 	;            
- J261            	0.009533    	P_StServaisCentreAll 	;            
- J261            	0.029727    	P_StServaisCentreAll 	;            
- J261            	0.026520    	P_StServaisCentreAll 	;            
- J261            	0.017160    	P_StServaisCentreAll 	;            
- J261            	0.009533    	P_StServaisCentreAll 	;            
- J261            	0.008580    	P_StServaisCentreAll 	;            
- J261            	0.000000    	P_StServaisCentreAll 	;            
- J261            	0.017680    	P_StServaisCentreAll 	;            
- J262            	0.004940    	P_StServaisCentreAll 	;            
- J262            	0.015080    	P_StServaisCentreAll 	;            
- J262            	0.023660    	P_StServaisCentreAll 	;            
- J262            	0.020107    	P_StServaisCentreAll 	;            
- J262            	0.030160    	P_StServaisCentreAll 	;            
- J262            	0.012393    	P_StServaisCentreAll 	;            
- J262            	0.004507    	P_StServaisCentreAll 	;            
- J262            	0.022707    	P_StServaisCentreAll 	;            
- J262            	0.013693    	P_StServaisCentreAll 	;            
- J262            	0.009360    	P_StServaisCentreAll 	;            
- J262            	0.030853    	P_StServaisCentreAll 	;            
- J264            	0.006587    	P_StServaisCentreAll 	;            
- J264            	0.003033    	P_StServaisCentreAll 	;            
- J264            	0.040993    	P_StServaisCentreAll 	;            
- J264            	0.021060    	P_StServaisCentreAll 	;            
- J265            	0.022187    	P_StServaisCentreAll 	;            
- J265            	0.001213    	P_StServaisCentreAll 	;            
- J265            	0.103220    	P_StServaisCentreAll 	;            
- J265            	0.032067    	P_StServaisCentreAll 	;            
- J265            	0.036487    	P_StServaisCentreAll 	;            
- J265            	0.098280    	P_StServaisCentreAll 	;            
- J266            	0.000953    	P_StServaisCentreAll 	;            
- J266            	0.030593    	P_StServaisCentreAll 	;            
- J266            	0.025393    	P_StServaisCentreAll 	;            
- J266            	0.036140    	P_StServaisCentreAll 	;            
- J266            	0.027300    	P_StServaisCentreAll 	;            
- J266            	0.001907    	P_StServaisCentreAll 	;            
- J266            	0.025133    	P_StServaisCentreAll 	;            
- J266            	0.035100    	P_StServaisCentreAll 	;            
- J266            	0.028600    	P_StServaisCentreAll 	;            
- J266            	0.000000    	P_StServaisCentreAll 	;            
- J266            	0.005027    	P_StServaisCentreAll 	;            
- J266            	0.019067    	P_StServaisCentreAll 	;            
- J266            	0.015860    	P_StServaisCentreAll 	;            
- J266            	0.046020    	P_StServaisCentreAll 	;            
- J266            	0.031633    	P_StServaisCentreAll 	;            
- J266            	0.055033    	P_StServaisCentreAll 	;            
- J266            	0.021927    	P_StServaisCentreAll 	;            
- J266            	0.020540    	P_StServaisCentreAll 	;            
- J266            	0.013000    	P_StServaisCentreAll 	;            
- J268            	0.042207    	P_StServaisCentreAll 	;            
- J268            	0.037353    	P_StServaisCentreAll 	;            
- J268            	0.018633    	P_StServaisCentreAll 	;            
- J268            	0.005720    	P_StServaisCentreAll 	;            
- J268            	0.066473    	P_StServaisCentreAll 	;            
- J268            	0.018027    	P_StServaisCentreAll 	;            
- J268            	0.004680    	P_StServaisCentreAll 	;            
- J268            	0.016813    	P_StServaisCentreAll 	;            
- J268            	0.056940    	P_StServaisCentreAll 	;            
- J268            	0.019933    	P_StServaisCentreAll 	;            
- J268            	0.018807    	P_StServaisCentreAll 	;            
- J268            	0.006673    	P_StServaisCentreAll 	;            
- J268            	0.005460    	P_StServaisCentreAll 	;            
- J268            	0.024700    	P_StServaisCentreAll 	;            
- J268            	0.010053    	P_StServaisCentreAll 	;            
- J268            	0.026087    	P_StServaisCentreAll 	;            
- J268            	0.037613    	P_StServaisCentreAll 	;            
- J269            	0.020627    	P_StServaisCentreAll 	;            
- J269            	0.013693    	P_StServaisCentreAll 	;            
- J269            	0.027127    	P_StServaisCentreAll 	;            
- J269            	0.029987    	P_StServaisCentreAll 	;            
- J269            	0.001820    	P_StServaisCentreAll 	;            
- J269            	0.000607    	P_StServaisCentreAll 	;            
- J269            	0.008667    	P_StServaisCentreAll 	;            
- J269            	0.013867    	P_StServaisCentreAll 	;            
- J269            	0.028253    	P_StServaisCentreAll 	;            
- J269            	0.015167    	P_StServaisCentreAll 	;            
- J269            	0.034840    	P_StServaisCentreAll 	;            
- J269            	0.000000    	P_StServaisCentreAll 	;            
- J269            	0.224380    	P_StServaisCentreAll 	;            
- J269            	0.016987    	P_StServaisCentreAll 	;            
- J269            	0.004940    	P_StServaisCentreAll 	;            
- J269            	0.010833    	P_StServaisCentreAll 	;            
- J269            	0.019933    	P_StServaisCentreAll 	;            
- J269            	0.016293    	P_StServaisCentreAll 	;            
- J269            	0.020193    	P_StServaisCentreAll 	;            
- J269            	0.027733    	P_StServaisCentreAll 	;            
- J269            	0.034667    	P_StServaisCentreAll 	;            
- J271            	0.028253    	P_StServaisCentreAll 	;            
- J271            	0.031547    	P_StServaisCentreAll 	;            
- J271            	0.000433    	P_StServaisCentreAll 	;            
- J271            	0.043507    	P_StServaisCentreAll 	;            
- J271            	0.017420    	P_StServaisCentreAll 	;            
- J271            	0.017420    	P_StServaisCentreAll 	;            
- J271            	0.024787    	P_StServaisCentreAll 	;            
- J271            	0.084933    	P_StServaisCentreAll 	;            
- J271            	0.043160    	P_StServaisCentreAll 	;            
- J274            	0.014560    	P_StServaisCentreAll 	;            
- J274            	0.006327    	P_StServaisCentreAll 	;            
- J274            	0.013953    	P_StServaisCentreAll 	;            
- J276            	0.063007    	P_StServaisCentreAll 	;            
- J276            	0.033367    	P_StServaisCentreAll 	;            
- J276            	0.011527    	P_StServaisCentreAll 	;            
- J276            	0.016120    	P_StServaisCentreAll 	;            
- J276            	0.001040    	P_StServaisCentreAll 	;            
- J277            	0.010140    	P_StServaisCentreAll 	;            
- J277            	0.021233    	P_StServaisCentreAll 	;            
- J278            	0.006500    	P_StServaisCentreAll 	;            
- J278            	0.000000    	P_StServaisCentreAll 	;            
- J278            	0.091000    	P_StServaisCentreAll 	;            
- J278            	0.000693    	P_StServaisCentreAll 	;            
- J278            	0.038220    	P_StServaisCentreAll 	;            
- J278            	0.028253    	P_StServaisCentreAll 	;            
- J278            	0.009707    	P_StServaisCentreAll 	;            
- J279            	0.045240    	P_StServaisCentreAll 	;            
- J279            	0.045760    	P_StServaisCentreAll 	;            
- J279            	0.003380    	P_StServaisCentreAll 	;            
- J279            	0.019933    	P_StServaisCentreAll 	;            
- J279            	0.002167    	P_StServaisCentreAll 	;            
- J279            	0.012740    	P_StServaisCentreAll 	;            
- J281            	0.047233    	P_StServaisCentreAll 	;            
- J281            	0.021060    	P_StServaisCentreAll 	;            
- J281            	0.017767    	P_StServaisCentreAll 	;            
- J281            	0.011267    	P_StServaisCentreAll 	;            
- J281            	0.009187    	P_StServaisCentreAll 	;            
- J281            	0.018027    	P_StServaisCentreAll 	;            
- J281            	0.123760    	P_StServaisCentreAll 	;            
- J281            	0.028427    	P_StServaisCentreAll 	;            
- J285            	0.018980    	P_StServaisCentreAll 	;            
- J285            	0.000000    	P_StServaisCentreAll 	;            
- J285            	0.010400    	P_StServaisCentreAll 	;            
- J285            	0.019760    	P_StServaisCentreAll 	;            
- J285            	0.018980    	P_StServaisCentreAll 	;            
- J285            	0.010660    	P_StServaisCentreAll 	;            
- J285            	0.023227    	P_StServaisCentreAll 	;            
- J285            	0.018113    	P_StServaisCentreAll 	;            
- J285            	0.037180    	P_StServaisCentreAll 	;            
- J297            	0.011700    	P_StServaisCentreAll 	;            
- J297            	0.000000    	P_StServaisCentreAll 	;            
- J297            	0.035187    	P_StServaisCentreAll 	;            
- J299            	0.056507    	P_StServaisCentreAll 	;            
- J299            	0.230447    	P_StServaisCentreAll 	;            
- J299            	0.095333    	P_StServaisCentreAll 	;            
- J299            	0.132687    	P_StServaisCentreAll 	;            
- J299            	0.017593    	P_StServaisCentreAll 	;            
- J299            	0.031027    	P_StServaisCentreAll 	;            
- J299            	0.000000    	P_StServaisCentreAll 	;            
- J299            	0.010313    	P_StServaisCentreAll 	;            
- J299            	0.006153    	P_StServaisCentreAll 	;            
- J299            	0.002600    	P_StServaisCentreAll 	;            
- J299            	0.168047    	P_StServaisCentreAll 	;            
- J299            	0.005980    	P_StServaisCentreAll 	;            
- J299            	0.009187    	P_StServaisCentreAll 	;            
- J299            	0.052693    	P_StServaisCentreAll 	;            
- J299            	0.023053    	P_StServaisCentreAll 	;            
- J300            	0.014733    	P_StServaisCentreAll 	;            
- J300            	0.000000    	P_StServaisCentreAll 	;            
- J308            	0.000000    	P_StServaisCentreAll 	;            
- J308            	0.000867    	P_StServaisCentreAll 	;            
- J310            	0.017767    	P_StServaisCentreAll 	;            
- J310            	0.001040    	P_StServaisCentreAll 	;            
- J310            	0.067253    	P_StServaisCentreAll 	;            
- J310            	0.025393    	P_StServaisCentreAll 	;            
- J310            	0.000000    	P_StServaisCentreAll 	;            
- J310            	0.018373    	P_StServaisCentreAll 	;            
- J310            	0.046020    	P_StServaisCentreAll 	;            
- J310            	0.043420    	P_StServaisCentreAll 	;            
- J310            	0.018720    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J315            	0.000000    	P_StServaisCentreAll 	;            
- J316            	0.009533    	P_StServaisCentreAll 	;            
- J316            	0.024440    	P_StServaisCentreAll 	;            
- J316            	0.052000    	P_StServaisCentreAll 	;            
- J316            	0.006847    	P_StServaisCentreAll 	;            
- J316            	0.000000    	P_StServaisCentreAll 	;            
- J316            	0.004333    	P_StServaisCentreAll 	;            
- J316            	0.063700    	P_StServaisCentreAll 	;            
- J316            	0.012740    	P_StServaisCentreAll 	;            
- J316            	0.011007    	P_StServaisCentreAll 	;            
- J316            	0.045760    	P_StServaisCentreAll 	;            
- J316            	0.001907    	P_StServaisCentreAll 	;            
- J316            	0.003293    	P_StServaisCentreAll 	;            
- J316            	0.006847    	P_StServaisCentreAll 	;            
- J316            	0.019240    	P_StServaisCentreAll 	;            
- J316            	0.047407    	P_StServaisCentreAll 	;            
- J316            	0.072280    	P_StServaisCentreAll 	;            
- J319            	0.075573    	P_StServaisCentreAll 	;            
- J319            	0.026347    	P_StServaisCentreAll 	;            
- J321            	0.000000    	P_StServaisCentreAll 	;            
- J321            	0.000000    	P_StServaisCentreAll 	;            
- J321            	0.000000    	P_StServaisCentreAll 	;            
- J325            	0.005113    	P_StServaisCentreAll 	;            
- J325            	0.016467    	P_StServaisCentreAll 	;            
- J325            	0.000000    	P_StServaisCentreAll 	;            
- J326            	0.017767    	P_StServaisCentreAll 	;            
- J326            	0.001473    	P_StServaisCentreAll 	;            
- J326            	0.076007    	P_StServaisCentreAll 	;            
- J329            	0.024613    	P_StServaisCentreAll 	;            
- J329            	0.052087    	P_StServaisCentreAll 	;            
- J329            	0.158253    	P_StServaisCentreAll 	;            
- J329            	0.070807    	P_StServaisCentreAll 	;            
- J329            	0.000000    	P_StServaisCentreAll 	;            
- J333            	0.000000    	P_StServaisCentreAll 	;            
- J333            	0.026953    	P_StServaisCentreAll 	;            
- J334            	0.009187    	P_StServaisCentreAll 	;            
- J334            	0.007367    	P_StServaisCentreAll 	;            
- J334            	0.081207    	P_StServaisCentreAll 	;            
- J334            	0.000000    	P_StServaisCentreAll 	;            
- J336            	0.099667    	P_StServaisCentreAll 	;            
- J336            	0.020887    	P_StServaisCentreAll 	;            
- J336            	0.039693    	P_StServaisCentreAll 	;            
- J336            	0.282360    	P_StServaisCentreAll 	;            
- J336            	0.089267    	P_StServaisCentreAll 	;            
- J336            	0.031027    	P_StServaisCentreAll 	;            
- J336            	0.018807    	P_StServaisCentreAll 	;            
- J339            	0.000000    	P_StServaisCentreAll 	;            
- J339            	0.041167    	P_StServaisCentreAll 	;            
- J339            	0.014040    	P_StServaisCentreAll 	;            
- J339            	0.042033    	P_StServaisCentreAll 	;            
- J339            	0.038133    	P_StServaisCentreAll 	;            
- J339            	0.008927    	P_StServaisCentreAll 	;            
- J339            	0.000000    	P_StServaisCentreAll 	;            
- J339            	0.000000    	P_StServaisCentreAll 	;            
- J339            	0.097067    	P_StServaisCentreAll 	;            
- J340            	0.084153    	P_StServaisCentreAll 	;            
- J340            	0.033540    	P_StServaisCentreAll 	;            
- J340            	0.007973    	P_StServaisCentreAll 	;            
- J340            	0.009620    	P_StServaisCentreAll 	;            
- J340            	0.013173    	P_StServaisCentreAll 	;            
- J340            	0.019500    	P_StServaisCentreAll 	;            
- J341            	0.005893    	P_StServaisCentreAll 	;            
- J341            	0.000000    	P_StServaisCentreAll 	;            
- J341            	0.041947    	P_StServaisCentreAll 	;            
- J341            	0.000000    	P_StServaisCentreAll 	;            
- J341            	0.021840    	P_StServaisCentreAll 	;            
- J341            	0.034060    	P_StServaisCentreAll 	;            
- J343            	0.026867    	P_StServaisCentreAll 	;            
- J343            	0.031373    	P_StServaisCentreAll 	;            
- J349            	0.002600    	P_StServaisCentreAll 	;            
- J349            	0.011960    	P_StServaisCentreAll 	;            
- J349            	0.019240    	P_StServaisCentreAll 	;            
- J349            	0.024007    	P_StServaisCentreAll 	;            
- J350            	0.013000    	P_StServaisCentreAll 	;            
- J350            	0.010660    	P_StServaisCentreAll 	;            
- J351            	0.000693    	P_StServaisCentreAll 	;            
- J351            	0.006413    	P_StServaisCentreAll 	;            
- J351            	0.018893    	P_StServaisCentreAll 	;            
- J351            	0.066213    	P_StServaisCentreAll 	;            
- J356            	0.022793    	P_StServaisCentreAll 	;            
- J356            	0.187547    	P_StServaisCentreAll 	;            
- J356            	0.052260    	P_StServaisCentreAll 	;            
- J356            	0.040213    	P_StServaisCentreAll 	;            
- J356            	0.104780    	P_StServaisCentreAll 	;            
- J356            	0.098020    	P_StServaisCentreAll 	;            
- J356            	0.000000    	P_StServaisCentreAll 	;            
- J356            	0.009707    	P_StServaisCentreAll 	;            
- J360            	0.003727    	P_StServaisCentreAll 	;            
- J360            	0.004940    	P_StServaisCentreAll 	;            
- J360            	0.062660    	P_StServaisCentreAll 	;            
- J360            	0.004420    	P_StServaisCentreAll 	;            
- J362            	0.012307    	P_StServaisCentreAll 	;            
- J362            	0.000000    	P_StServaisCentreAll 	;            
- J362            	0.015167    	P_StServaisCentreAll 	;            
- J362            	0.024613    	P_StServaisCentreAll 	;            
- J362            	0.015773    	P_StServaisCentreAll 	;            
- J362            	0.000000    	P_StServaisCentreAll 	;            
- J362            	0.010660    	P_StServaisCentreAll 	;            
- J362            	0.018633    	P_StServaisCentreAll 	;            
- J364            	0.016553    	P_StServaisCentreAll 	;            
- J364            	0.036053    	P_StServaisCentreAll 	;            
- J364            	0.000173    	P_StServaisCentreAll 	;            
- J364            	0.060493    	P_StServaisCentreAll 	;            
- J364            	0.019673    	P_StServaisCentreAll 	;            
- J364            	0.009360    	P_StServaisCentreAll 	;            
- J364            	0.006847    	P_StServaisCentreAll 	;            
- J364            	0.038653    	P_StServaisCentreAll 	;            
- J364            	0.012827    	P_StServaisCentreAll 	;            
- J364            	0.028340    	P_StServaisCentreAll 	;            
- J366            	0.000000    	P_StServaisCentreAll 	;            
- J366            	0.000000    	P_StServaisCentreAll 	;            
- J367            	0.000000    	P_StServaisCentreAll 	;            
- J367            	0.000000    	P_StServaisCentreAll 	;            
- J367            	0.000000    	P_StServaisCentreAll 	;            
- J367            	0.000000    	P_StServaisCentreAll 	;            
- J367            	0.000000    	P_StServaisCentreAll 	;            
- J367            	0.000000    	P_StServaisCentreAll 	;            
- J367            	0.000000    	P_StServaisCentreAll 	;            
- J367            	0.000000    	P_StServaisCentreAll 	;            
- J367            	0.000000    	P_StServaisCentreAll 	;            
- J369            	0.014300    	P_StServaisCentreAll 	;            
- J369            	0.000693    	P_StServaisCentreAll 	;            
- J369            	0.021667    	P_StServaisCentreAll 	;            
- J369            	0.000000    	P_StServaisCentreAll 	;            
- J369            	0.041167    	P_StServaisCentreAll 	;            
- J369            	0.003033    	P_StServaisCentreAll 	;            
- J369            	0.061013    	P_StServaisCentreAll 	;            
- J369            	0.001127    	P_StServaisCentreAll 	;            
- J369            	0.019847    	P_StServaisCentreAll 	;            
- J369            	0.033367    	P_StServaisCentreAll 	;            
- J370            	0.016380    	P_StServaisCentreAll 	;            
- J370            	0.000000    	P_StServaisCentreAll 	;            
- J370            	0.034233    	P_StServaisCentreAll 	;            
- J370            	0.009187    	P_StServaisCentreAll 	;            
- J371            	0.001993    	P_StServaisCentreAll 	;            
- J371            	0.025567    	P_StServaisCentreAll 	;            
- J371            	0.028513    	P_StServaisCentreAll 	;            
- J371            	0.034493    	P_StServaisCentreAll 	;            
- J371            	0.031720    	P_StServaisCentreAll 	;            
- J382            	0.028947    	P_StServaisCentreAll 	;            
- J382            	0.023487    	P_StServaisCentreAll 	;            
- J382            	0.000000    	P_StServaisCentreAll 	;            
- J382            	0.104520    	P_StServaisCentreAll 	;            
- J384            	0.071587    	P_StServaisCentreAll 	;            
- J384            	0.024440    	P_StServaisCentreAll 	;            
- J384            	0.008493    	P_StServaisCentreAll 	;            
- J384            	0.009447    	P_StServaisCentreAll 	;            
- J384            	0.025393    	P_StServaisCentreAll 	;            
- J384            	0.021840    	P_StServaisCentreAll 	;            
- J384            	0.023833    	P_StServaisCentreAll 	;            
- J399            	0.034233    	P_StServaisCentreAll 	;            
- J399            	0.012133    	P_StServaisCentreAll 	;            
- J399            	0.044113    	P_StServaisCentreAll 	;            
- J399            	0.032240    	P_StServaisCentreAll 	;            
- J399            	0.015947    	P_StServaisCentreAll 	;            
- J399            	0.011353    	P_StServaisCentreAll 	;            
- J399            	0.020107    	P_StServaisCentreAll 	;            
- J399            	0.004160    	P_StServaisCentreAll 	;            
- J399            	0.011700    	P_StServaisCentreAll 	;            
- J399            	0.013953    	P_StServaisCentreAll 	;            
- J399            	0.004247    	P_StServaisCentreAll 	;            
- J401            	0.009707    	P_StServaisCentreAll 	;            
- J401            	0.022793    	P_StServaisCentreAll 	;            
- J401            	0.017073    	P_StServaisCentreAll 	;            
- J401            	0.011093    	P_StServaisCentreAll 	;            
- J401            	0.000000    	P_StServaisCentreAll 	;            
- J401            	0.019067    	P_StServaisCentreAll 	;            
- J401            	0.009793    	P_StServaisCentreAll 	;            
- J401            	0.011700    	P_StServaisCentreAll 	;            
- J401            	0.029900    	P_StServaisCentreAll 	;            
- J401            	0.009013    	P_StServaisCentreAll 	;            
- J401            	0.011527    	P_StServaisCentreAll 	;            
- J401            	0.017420    	P_StServaisCentreAll 	;            
- J402            	0.018807    	P_StServaisCentreAll 	;            
- J402            	0.011007    	P_StServaisCentreAll 	;            
- J402            	0.051307    	P_StServaisCentreAll 	;            
- J402            	0.016900    	P_StServaisCentreAll 	;            
- J402            	0.023400    	P_StServaisCentreAll 	;            
- J404            	0.010747    	P_StServaisCentreAll 	;            
- J404            	0.022880    	P_StServaisCentreAll 	;            
- J404            	0.014300    	P_StServaisCentreAll 	;            
- J404            	0.001820    	P_StServaisCentreAll 	;            
- J404            	0.000693    	P_StServaisCentreAll 	;            
- J405            	0.028253    	P_StServaisCentreAll 	;            
- J405            	0.023487    	P_StServaisCentreAll 	;            
- J405            	0.034407    	P_StServaisCentreAll 	;            
- J405            	0.033453    	P_StServaisCentreAll 	;            
- J405            	0.016207    	P_StServaisCentreAll 	;            
- J405            	0.032327    	P_StServaisCentreAll 	;            
- J405            	0.051047    	P_StServaisCentreAll 	;            
- J405            	0.025567    	P_StServaisCentreAll 	;            
- J405            	0.007020    	P_StServaisCentreAll 	;            
- J408            	0.000000    	P_StServaisCentreAll 	;            
- J408            	0.000000    	P_StServaisCentreAll 	;            
- J408            	0.043853    	P_StServaisCentreAll 	;            
- J408            	0.005633    	P_StServaisCentreAll 	;            
- J408            	0.003033    	P_StServaisCentreAll 	;            
- J408            	0.053907    	P_StServaisCentreAll 	;            
- J408            	0.004593    	P_StServaisCentreAll 	;            
- J408            	0.023920    	P_StServaisCentreAll 	;            
- J408            	0.015600    	P_StServaisCentreAll 	;            
- J408            	0.002340    	P_StServaisCentreAll 	;            
- J408            	0.014473    	P_StServaisCentreAll 	;            
- J408            	0.042207    	P_StServaisCentreAll 	;            
- J408            	0.034147    	P_StServaisCentreAll 	;            
- J408            	0.013520    	P_StServaisCentreAll 	;            
- J408            	0.019067    	P_StServaisCentreAll 	;            
- J411            	0.093427    	P_StServaisCentreAll 	;            
- J411            	0.000000    	P_StServaisCentreAll 	;            
- J411            	0.012567    	P_StServaisCentreAll 	;            
- J411            	0.000000    	P_StServaisCentreAll 	;            
- J411            	0.008147    	P_StServaisCentreAll 	;            
- J411            	0.006153    	P_StServaisCentreAll 	;            
- J411            	0.007627    	P_StServaisCentreAll 	;            
- J411            	0.022533    	P_StServaisCentreAll 	;            
- J411            	0.008753    	P_StServaisCentreAll 	;            
- J415            	0.037527    	P_StServaisCentreAll 	;            
- J415            	0.024613    	P_StServaisCentreAll 	;            
- J417            	0.000000    	P_StServaisCentreAll 	;            
- J417            	0.008753    	P_StServaisCentreAll 	;            
- J417            	0.010053    	P_StServaisCentreAll 	;            
- J417            	0.016640    	P_StServaisCentreAll 	;            
- J417            	0.016293    	P_StServaisCentreAll 	;            
- J417            	0.031720    	P_StServaisCentreAll 	;            
- J417            	0.018200    	P_StServaisCentreAll 	;            
- J417            	0.045847    	P_StServaisCentreAll 	;            
- J417            	0.037960    	P_StServaisCentreAll 	;            
- J417            	0.023227    	P_StServaisCentreAll 	;            
- J417            	0.007107    	P_StServaisCentreAll 	;            
- J417            	0.018980    	P_StServaisCentreAll 	;            
- J417            	0.004940    	P_StServaisCentreAll 	;            
- J417            	0.017680    	P_StServaisCentreAll 	;            
- J417            	0.013260    	P_StServaisCentreAll 	;            
- J417            	0.005807    	P_StServaisCentreAll 	;            
- J417            	0.000000    	P_StServaisCentreAll 	;            
- J417            	0.117867    	P_StServaisCentreAll 	;            
- J418            	0.102613    	P_StServaisCentreAll 	;            
- J418            	0.022013    	P_StServaisCentreAll 	;            
- J418            	0.005893    	P_StServaisCentreAll 	;            
- J418            	0.033627    	P_StServaisCentreAll 	;            
- J418            	0.022533    	P_StServaisCentreAll 	;            
- J418            	0.000000    	P_StServaisCentreAll 	;            
- J418            	0.107467    	P_StServaisCentreAll 	;            
- J418            	0.031893    	P_StServaisCentreAll 	;            
- J418            	0.070720    	P_StServaisCentreAll 	;            
- J418            	0.052000    	P_StServaisCentreAll 	;            
- J418            	0.003987    	P_StServaisCentreAll 	;            
- J418            	0.066473    	P_StServaisCentreAll 	;            
- J418            	0.106860    	P_StServaisCentreAll 	;            
- J418            	0.044027    	P_StServaisCentreAll 	;            
- J418            	0.018460    	P_StServaisCentreAll 	;            
- J418            	0.093340    	P_StServaisCentreAll 	;            
- J418            	0.004507    	P_StServaisCentreAll 	;            
- J428            	0.000000    	P_StServaisCentreAll 	;            
- J428            	0.000000    	P_StServaisCentreAll 	;            
- J428            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.067773    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J432            	0.000000    	P_StServaisCentreAll 	;            
- J433            	0.000000    	P_StServaisCentreAll 	;            
- J433            	0.000000    	P_StServaisCentreAll 	;            
- J433            	0.000000    	P_StServaisCentreAll 	;            
- J433            	0.000000    	P_StServaisCentreAll 	;            
- J437            	0.003120    	P_StServaisCentreAll 	;            
- J437            	0.000000    	P_StServaisCentreAll 	;            
- J437            	0.055120    	P_StServaisCentreAll 	;            
- J437            	0.030073    	P_StServaisCentreAll 	;            
- J438            	0.052260    	P_StServaisCentreAll 	;            
- J438            	0.073493    	P_StServaisCentreAll 	;            
- J438            	0.028687    	P_StServaisCentreAll 	;            
- J438            	0.042813    	P_StServaisCentreAll 	;            
- J442            	0.007540    	P_StServaisCentreAll 	;            
- J442            	0.029813    	P_StServaisCentreAll 	;            
- J442            	0.017940    	P_StServaisCentreAll 	;            
- J442            	0.023053    	P_StServaisCentreAll 	;            
- J442            	0.020280    	P_StServaisCentreAll 	;            
- J442            	0.013347    	P_StServaisCentreAll 	;            
- J442            	0.026260    	P_StServaisCentreAll 	;            
- J442            	0.038047    	P_StServaisCentreAll 	;            
- J442            	0.009273    	P_StServaisCentreAll 	;            
- J442            	0.000607    	P_StServaisCentreAll 	;            
- J442            	0.003813    	P_StServaisCentreAll 	;            
- J444            	0.005287    	P_StServaisCentreAll 	;            
- J444            	0.007367    	P_StServaisCentreAll 	;            
- J445            	0.025047    	P_StServaisCentreAll 	;            
- J445            	0.022447    	P_StServaisCentreAll 	;            
- J445            	0.014387    	P_StServaisCentreAll 	;            
- J445            	0.017160    	P_StServaisCentreAll 	;            
- J445            	0.023487    	P_StServaisCentreAll 	;            
- J445            	0.003553    	P_StServaisCentreAll 	;            
- J445            	0.012913    	P_StServaisCentreAll 	;            
- J445            	0.025047    	P_StServaisCentreAll 	;            
- J445            	0.000000    	P_StServaisCentreAll 	;            
- J445            	0.000000    	P_StServaisCentreAll 	;            
- J445            	0.021060    	P_StServaisCentreAll 	;            
- J445            	0.012307    	P_StServaisCentreAll 	;            
- J445            	0.000000    	P_StServaisCentreAll 	;            
- J445            	0.005200    	P_StServaisCentreAll 	;            
- J445            	0.021233    	P_StServaisCentreAll 	;            
- J445            	0.006760    	P_StServaisCentreAll 	;            
- J445            	0.012827    	P_StServaisCentreAll 	;            
- J449            	0.007973    	P_StServaisCentreAll 	;            
- J449            	0.021407    	P_StServaisCentreAll 	;            
- J449            	0.094380    	P_StServaisCentreAll 	;            
- J462            	0.011527    	P_StServaisCentreAll 	;            
- J462            	0.009967    	P_StServaisCentreAll 	;            
- J462            	0.014907    	P_StServaisCentreAll 	;            
- J462            	0.015427    	P_StServaisCentreAll 	;            
- J468            	0.000000    	P_StServaisCentreAll 	;            
- J468            	0.000000    	P_StServaisCentreAll 	;            
- J468            	0.000000    	P_StServaisCentreAll 	;            
- J468            	0.000000    	P_StServaisCentreAll 	;            
- J468            	0.000000    	P_StServaisCentreAll 	;            
- J468            	0.000000    	P_StServaisCentreAll 	;            
- J468            	0.000000    	P_StServaisCentreAll 	;            
- J468            	0.000000    	P_StServaisCentreAll 	;            
- J469            	0.003467    	P_StServaisCentreAll 	;            
- J469            	0.081380    	P_StServaisCentreAll 	;            
- J469            	0.059887    	P_StServaisCentreAll 	;            
- J469            	0.000000    	P_StServaisCentreAll 	;            
- J469            	0.041427    	P_StServaisCentreAll 	;            
- J469            	0.322400    	P_StServaisCentreAll 	;            
- J469            	0.038220    	P_StServaisCentreAll 	;            
- J469            	0.009447    	P_StServaisCentreAll 	;            
- J472            	0.000000    	P_StServaisCentreAll 	;            
- J472            	0.029900    	P_StServaisCentreAll 	;            
- J472            	0.037180    	P_StServaisCentreAll 	;            
- J477            	0.027733    	P_StServaisCentreAll 	;            
- J477            	0.011353    	P_StServaisCentreAll 	;            
- J477            	0.125667    	P_StServaisCentreAll 	;            
- J481            	0.005633    	P_StServaisCentreAll 	;            
- J481            	0.012047    	P_StServaisCentreAll 	;            
- J481            	0.016553    	P_StServaisCentreAll 	;            
- J481            	0.029207    	P_StServaisCentreAll 	;            
- J481            	0.030160    	P_StServaisCentreAll 	;            
- J481            	0.031113    	P_StServaisCentreAll 	;            
- J481            	0.005807    	P_StServaisCentreAll 	;            
- J481            	0.004247    	P_StServaisCentreAll 	;            
- J481            	0.020540    	P_StServaisCentreAll 	;            
- J481            	0.027473    	P_StServaisCentreAll 	;            
- J481            	0.017160    	P_StServaisCentreAll 	;            
- J481            	0.013867    	P_StServaisCentreAll 	;            
- J481            	0.000000    	P_StServaisCentreAll 	;            
- J481            	0.051047    	P_StServaisCentreAll 	;            
- J481            	0.011787    	P_StServaisCentreAll 	;            
- J481            	0.005633    	P_StServaisCentreAll 	;            
- J481            	0.007020    	P_StServaisCentreAll 	;            
- J481            	0.031980    	P_StServaisCentreAll 	;            
- J481            	0.023400    	P_StServaisCentreAll 	;            
- J481            	0.032760    	P_StServaisCentreAll 	;            
- J484            	0.058847    	P_StServaisCentreAll 	;            
- J484            	0.011613    	P_StServaisCentreAll 	;            
- J484            	0.052087    	P_StServaisCentreAll 	;            
- J484            	0.030507    	P_StServaisCentreAll 	;            
- J485            	0.029987    	P_StServaisCentreAll 	;            
- J485            	0.016813    	P_StServaisCentreAll 	;            
- J485            	0.012133    	P_StServaisCentreAll 	;            
- J486            	0.011093    	P_StServaisCentreAll 	;            
- J486            	0.016207    	P_StServaisCentreAll 	;            
- J486            	0.007800    	P_StServaisCentreAll 	;            
- J486            	0.032153    	P_StServaisCentreAll 	;            
- J487            	0.020107    	P_StServaisCentreAll 	;            
- J487            	0.024700    	P_StServaisCentreAll 	;            
- J487            	0.019760    	P_StServaisCentreAll 	;            
- J487            	0.068467    	P_StServaisCentreAll 	;            
+ J013            	0.000000    	Centre 	;            
+ J013            	0.000000    	Centre 	;            
+ J014            	0.014560    	Centre 	;            
+ J014            	0.054947    	Centre 	;            
+ J014            	0.026087    	Centre 	;            
+ J014            	0.039087    	Centre 	;            
+ J015            	0.009100    	Centre 	;            
+ J015            	0.027907    	Centre 	;            
+ J019            	0.002860    	Centre 	;            
+ J019            	0.017160    	Centre 	;            
+ J020            	0.027733    	Centre 	;            
+ J020            	0.017593    	Centre 	;            
+ J026            	0.000000    	Centre 	;            
+ J026            	0.000000    	Centre 	;            
+ J029            	0.011007    	Centre 	;            
+ J029            	0.015600    	Centre 	;            
+ J030            	0.009360    	Centre 	;            
+ J030            	0.012393    	Centre 	;            
+ J030            	0.018460    	Centre 	;            
+ J030            	0.016380    	Centre 	;            
+ J030            	0.000000    	Centre 	;            
+ J030            	0.000000    	Centre 	;            
+ J030            	0.014473    	Centre 	;            
+ J030            	0.028600    	Centre 	;            
+ J030            	0.000693    	Centre 	;            
+ J031            	0.001907    	Centre 	;            
+ J031            	0.003380    	Centre 	;            
+ J031            	0.011353    	Centre 	;            
+ J031            	0.017333    	Centre 	;            
+ J031            	0.009447    	Centre 	;            
+ J031            	0.005287    	Centre 	;            
+ J031            	0.017940    	Centre 	;            
+ J031            	0.017073    	Centre 	;            
+ J031            	0.009447    	Centre 	;            
+ J035            	0.015167    	Centre 	;            
+ J035            	0.006240    	Centre 	;            
+ J035            	0.011093    	Centre 	;            
+ J035            	0.033713    	Centre 	;            
+ J035            	0.031893    	Centre 	;            
+ J035            	0.035187    	Centre 	;            
+ J035            	0.003467    	Centre 	;            
+ J037            	0.002340    	Centre 	;            
+ J037            	0.000173    	Centre 	;            
+ J037            	0.033020    	Centre 	;            
+ J037            	0.036660    	Centre 	;            
+ J050            	0.012740    	Centre 	;            
+ J050            	0.007540    	Centre 	;            
+ J050            	0.017160    	Centre 	;            
+ J050            	0.005807    	Centre 	;            
+ J050            	0.006327    	Centre 	;            
+ J050            	0.013953    	Centre 	;            
+ J060            	0.015947    	Centre 	;            
+ J060            	0.029553    	Centre 	;            
+ J060            	0.018373    	Centre 	;            
+ J060            	0.015340    	Centre 	;            
+ J060            	0.021667    	Centre 	;            
+ J061            	0.011093    	Centre 	;            
+ J061            	0.018633    	Centre 	;            
+ J061            	0.011180    	Centre 	;            
+ J061            	0.013520    	Centre 	;            
+ J061            	0.023660    	Centre 	;            
+ J062            	0.029207    	Centre 	;            
+ J062            	0.045673    	Centre 	;            
+ J062            	0.043593    	Centre 	;            
+ J062            	0.016120    	Centre 	;            
+ J062            	0.032673    	Centre 	;            
+ J062            	0.050527    	Centre 	;            
+ J062            	0.014040    	Centre 	;            
+ J062            	0.037093    	Centre 	;            
+ J064            	0.031893    	Centre 	;            
+ J064            	0.005200    	Centre 	;            
+ J064            	0.017853    	Centre 	;            
+ J064            	0.009447    	Centre 	;            
+ J064            	0.017767    	Centre 	;            
+ J064            	0.026953    	Centre 	;            
+ J064            	0.030073    	Centre 	;            
+ J064            	0.017333    	Centre 	;            
+ J064            	0.023833    	Centre 	;            
+ J064            	0.011613    	Centre 	;            
+ J064            	0.012480    	Centre 	;            
+ J064            	0.010573    	Centre 	;            
+ J064            	0.035447    	Centre 	;            
+ J064            	0.013347    	Centre 	;            
+ J068            	0.003987    	Centre 	;            
+ J068            	0.010227    	Centre 	;            
+ J068            	0.059020    	Centre 	;            
+ J068            	0.009707    	Centre 	;            
+ J068            	0.009707    	Centre 	;            
+ J068            	0.190840    	Centre 	;            
+ J068            	0.015513    	Centre 	;            
+ J068            	0.100100    	Centre 	;            
+ J068            	0.018980    	Centre 	;            
+ J068            	0.023140    	Centre 	;            
+ J074            	0.000000    	Centre 	;            
+ J074            	0.000000    	Centre 	;            
+ J074            	0.000000    	Centre 	;            
+ J074            	0.000000    	Centre 	;            
+ J074            	0.000000    	Centre 	;            
+ J074            	0.000000    	Centre 	;            
+ J074            	0.000000    	Centre 	;            
+ J076            	0.009967    	Centre 	;            
+ J076            	0.046280    	Centre 	;            
+ J077            	0.027993    	Centre 	;            
+ J077            	0.038133    	Centre 	;            
+ J077            	0.023833    	Centre 	;            
+ J077            	0.012653    	Centre 	;            
+ J077            	0.006327    	Centre 	;            
+ J079            	0.005200    	Centre 	;            
+ J079            	0.000433    	Centre 	;            
+ J079            	0.000433    	Centre 	;            
+ J079            	0.017853    	Centre 	;            
+ J079            	0.014300    	Centre 	;            
+ J079            	0.013347    	Centre 	;            
+ J079            	0.043160    	Centre 	;            
+ J079            	0.037267    	Centre 	;            
+ J080            	0.010573    	Centre 	;            
+ J080            	0.044113    	Centre 	;            
+ J080            	0.003120    	Centre 	;            
+ J080            	0.004333    	Centre 	;            
+ J080            	0.010573    	Centre 	;            
+ J080            	0.000000    	Centre 	;            
+ J080            	0.020540    	Centre 	;            
+ J085            	0.027993    	Centre 	;            
+ J085            	0.041427    	Centre 	;            
+ J085            	0.017160    	Centre 	;            
+ J085            	0.014213    	Centre 	;            
+ J085            	0.015427    	Centre 	;            
+ J085            	0.204880    	Centre 	;            
+ J085            	0.022013    	Centre 	;            
+ J085            	0.032240    	Centre 	;            
+ J085            	0.006847    	Centre 	;            
+ J086            	0.011267    	Centre 	;            
+ J086            	0.031113    	Centre 	;            
+ J088            	0.012307    	Centre 	;            
+ J088            	0.043333    	Centre 	;            
+ J088            	0.000433    	Centre 	;            
+ J089            	0.037527    	Centre 	;            
+ J089            	0.032587    	Centre 	;            
+ J089            	0.079993    	Centre 	;            
+ J089            	0.006847    	Centre 	;            
+ J089            	0.010833    	Centre 	;            
+ J089            	0.025480    	Centre 	;            
+ J089            	0.027387    	Centre 	;            
+ J089            	0.023747    	Centre 	;            
+ J089            	0.096547    	Centre 	;            
+ J089            	0.022360    	Centre 	;            
+ J098            	0.074100    	Centre 	;            
+ J098            	0.002340    	Centre 	;            
+ J098            	0.007540    	Centre 	;            
+ J101            	0.001907    	Centre 	;            
+ J101            	0.017160    	Centre 	;            
+ J101            	0.000000    	Centre 	;            
+ J101            	0.048360    	Centre 	;            
+ J101            	0.020367    	Centre 	;            
+ J102            	0.055553    	Centre 	;            
+ J102            	0.060927    	Centre 	;            
+ J102            	0.021927    	Centre 	;            
+ J102            	0.011180    	Centre 	;            
+ J109            	0.000000    	Centre 	;            
+ J109            	0.036053    	Centre 	;            
+ J109            	0.044373    	Centre 	;            
+ J111            	0.027733    	Centre 	;            
+ J111            	0.046627    	Centre 	;            
+ J111            	0.025827    	Centre 	;            
+ J111            	0.020887    	Centre 	;            
+ J111            	0.000173    	Centre 	;            
+ J111            	0.071413    	Centre 	;            
+ J111            	0.079560    	Centre 	;            
+ J112            	0.011960    	Centre 	;            
+ J112            	0.008320    	Centre 	;            
+ J112            	0.018373    	Centre 	;            
+ J113            	0.027560    	Centre 	;            
+ J113            	0.037613    	Centre 	;            
+ J113            	0.056680    	Centre 	;            
+ J113            	0.000867    	Centre 	;            
+ J113            	0.042900    	Centre 	;            
+ J113            	0.005720    	Centre 	;            
+ J113            	0.019153    	Centre 	;            
+ J113            	0.001127    	Centre 	;            
+ J113            	0.018113    	Centre 	;            
+ J113            	0.000000    	Centre 	;            
+ J113            	0.037267    	Centre 	;            
+ J113            	0.018027    	Centre 	;            
+ J113            	0.013607    	Centre 	;            
+ J114            	0.023053    	Centre 	;            
+ J114            	0.006327    	Centre 	;            
+ J114            	0.040040    	Centre 	;            
+ J114            	0.007800    	Centre 	;            
+ J114            	0.075487    	Centre 	;            
+ J114            	0.007800    	Centre 	;            
+ J114            	0.000000    	Centre 	;            
+ J114            	0.013953    	Centre 	;            
+ J114            	0.027560    	Centre 	;            
+ J114            	0.007367    	Centre 	;            
+ J118            	0.075313    	Centre 	;            
+ J118            	0.031980    	Centre 	;            
+ J118            	0.077220    	Centre 	;            
+ J118            	0.188673    	Centre 	;            
+ J118            	0.023660    	Centre 	;            
+ J121            	0.000000    	Centre 	;            
+ J121            	0.070980    	Centre 	;            
+ J122            	0.020973    	Centre 	;            
+ J122            	0.134420    	Centre 	;            
+ J122            	0.025393    	Centre 	;            
+ J122            	0.007800    	Centre 	;            
+ J122            	0.071327    	Centre 	;            
+ J122            	0.067427    	Centre 	;            
+ J123            	0.018807    	Centre 	;            
+ J123            	0.045327    	Centre 	;            
+ J131            	0.019153    	Centre 	;            
+ J131            	0.022707    	Centre 	;            
+ J131            	0.003727    	Centre 	;            
+ J131            	0.022100    	Centre 	;            
+ J131            	0.016987    	Centre 	;            
+ J131            	0.011960    	Centre 	;            
+ J131            	0.000000    	Centre 	;            
+ J131            	0.018720    	Centre 	;            
+ J132            	0.029640    	Centre 	;            
+ J132            	0.085193    	Centre 	;            
+ J132            	0.056853    	Centre 	;            
+ J132            	0.163280    	Centre 	;            
+ J132            	0.020627    	Centre 	;            
+ J132            	0.030940    	Centre 	;            
+ J132            	0.003900    	Centre 	;            
+ J135            	0.000000    	Centre 	;            
+ J135            	0.000000    	Centre 	;            
+ J136            	0.009967    	Centre 	;            
+ J136            	0.036053    	Centre 	;            
+ J136            	0.003467    	Centre 	;            
+ J136            	0.013953    	Centre 	;            
+ J136            	0.041687    	Centre 	;            
+ J136            	0.027300    	Centre 	;            
+ J136            	0.064393    	Centre 	;            
+ J136            	0.036400    	Centre 	;            
+ J136            	0.019500    	Centre 	;            
+ J136            	0.015427    	Centre 	;            
+ J136            	0.030680    	Centre 	;            
+ J137            	0.121333    	Centre 	;            
+ J137            	0.023747    	Centre 	;            
+ J137            	0.017073    	Centre 	;            
+ J137            	0.043420    	Centre 	;            
+ J137            	0.012047    	Centre 	;            
+ J137            	0.058153    	Centre 	;            
+ J137            	0.015860    	Centre 	;            
+ J137            	0.048533    	Centre 	;            
+ J137            	0.014473    	Centre 	;            
+ J137            	0.035013    	Centre 	;            
+ J137            	0.012307    	Centre 	;            
+ J137            	0.007887    	Centre 	;            
+ J137            	0.055033    	Centre 	;            
+ J137            	0.034927    	Centre 	;            
+ J140            	0.000000    	Centre 	;            
+ J140            	0.024873    	Centre 	;            
+ J140            	0.000000    	Centre 	;            
+ J140            	0.033540    	Centre 	;            
+ J140            	0.000000    	Centre 	;            
+ J140            	0.018373    	Centre 	;            
+ J140            	0.108507    	Centre 	;            
+ J140            	0.021667    	Centre 	;            
+ J140            	0.018720    	Centre 	;            
+ J140            	0.016120    	Centre 	;            
+ J140            	0.060493    	Centre 	;            
+ J140            	0.055207    	Centre 	;            
+ J145            	0.012827    	Centre 	;            
+ J145            	0.020887    	Centre 	;            
+ J145            	0.013000    	Centre 	;            
+ J145            	0.039520    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.021580    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J147            	0.000000    	Centre 	;            
+ J148            	0.029380    	Centre 	;            
+ J148            	0.007973    	Centre 	;            
+ J148            	0.019673    	Centre 	;            
+ J148            	0.023660    	Centre 	;            
+ J148            	0.019153    	Centre 	;            
+ J148            	0.015253    	Centre 	;            
+ J148            	0.012480    	Centre 	;            
+ J148            	0.023140    	Centre 	;            
+ J148            	0.013520    	Centre 	;            
+ J148            	0.019933    	Centre 	;            
+ J148            	0.030247    	Centre 	;            
+ J148            	0.023227    	Centre 	;            
+ J148            	0.021407    	Centre 	;            
+ J148            	0.014387    	Centre 	;            
+ J148            	0.028427    	Centre 	;            
+ J148            	0.026867    	Centre 	;            
+ J148            	0.031633    	Centre 	;            
+ J148            	0.005113    	Centre 	;            
+ J148            	0.003467    	Centre 	;            
+ J148            	0.015860    	Centre 	;            
+ J148            	0.016120    	Centre 	;            
+ J148            	0.031460    	Centre 	;            
+ J148            	0.010833    	Centre 	;            
+ J159            	0.005893    	Centre 	;            
+ J159            	0.021580    	Centre 	;            
+ J159            	0.041513    	Centre 	;            
+ J159            	0.014647    	Centre 	;            
+ J159            	0.007973    	Centre 	;            
+ J159            	0.006587    	Centre 	;            
+ J164            	0.072020    	Centre 	;            
+ J164            	0.000000    	Centre 	;            
+ J164            	0.017333    	Centre 	;            
+ J164            	0.010833    	Centre 	;            
+ J164            	0.017680    	Centre 	;            
+ J164            	0.020453    	Centre 	;            
+ J164            	0.014213    	Centre 	;            
+ J164            	0.014560    	Centre 	;            
+ J164            	0.038393    	Centre 	;            
+ J164            	0.022793    	Centre 	;            
+ J164            	0.014733    	Centre 	;            
+ J164            	0.001647    	Centre 	;            
+ J165            	0.012307    	Centre 	;            
+ J165            	0.006847    	Centre 	;            
+ J165            	0.043160    	Centre 	;            
+ J167            	0.039953    	Centre 	;            
+ J167            	0.017333    	Centre 	;            
+ J168            	0.009880    	Centre 	;            
+ J168            	0.011007    	Centre 	;            
+ J168            	0.033280    	Centre 	;            
+ J168            	0.028253    	Centre 	;            
+ J170            	0.029987    	Centre 	;            
+ J170            	0.032587    	Centre 	;            
+ J171            	0.001647    	Centre 	;            
+ J171            	0.007453    	Centre 	;            
+ J171            	0.034927    	Centre 	;            
+ J171            	0.024440    	Centre 	;            
+ J171            	0.023313    	Centre 	;            
+ J171            	0.000000    	Centre 	;            
+ J172            	0.022967    	Centre 	;            
+ J172            	0.007887    	Centre 	;            
+ J172            	0.007540    	Centre 	;            
+ J172            	0.015687    	Centre 	;            
+ J172            	0.027213    	Centre 	;            
+ J172            	0.024267    	Centre 	;            
+ J174            	0.005547    	Centre 	;            
+ J174            	0.015080    	Centre 	;            
+ J174            	0.000607    	Centre 	;            
+ J174            	0.013693    	Centre 	;            
+ J174            	0.023140    	Centre 	;            
+ J174            	0.004507    	Centre 	;            
+ J174            	0.023313    	Centre 	;            
+ J174            	0.005807    	Centre 	;            
+ J174            	0.008927    	Centre 	;            
+ J174            	0.013000    	Centre 	;            
+ J174            	0.004767    	Centre 	;            
+ J181            	0.011787    	Centre 	;            
+ J181            	0.000953    	Centre 	;            
+ J181            	0.009273    	Centre 	;            
+ J181            	0.021840    	Centre 	;            
+ J181            	0.008667    	Centre 	;            
+ J181            	0.000000    	Centre 	;            
+ J184            	0.000000    	Centre 	;            
+ J184            	0.000000    	Centre 	;            
+ J188            	0.030073    	Centre 	;            
+ J188            	0.024180    	Centre 	;            
+ J188            	0.023920    	Centre 	;            
+ J190            	0.003727    	Centre 	;            
+ J190            	0.008580    	Centre 	;            
+ J190            	0.019847    	Centre 	;            
+ J190            	0.007887    	Centre 	;            
+ J190            	0.027560    	Centre 	;            
+ J190            	0.012307    	Centre 	;            
+ J190            	0.009013    	Centre 	;            
+ J190            	0.016813    	Centre 	;            
+ J190            	0.016987    	Centre 	;            
+ J190            	0.021060    	Centre 	;            
+ J190            	0.004767    	Centre 	;            
+ J190            	0.010747    	Centre 	;            
+ J190            	0.018980    	Centre 	;            
+ J190            	0.034840    	Centre 	;            
+ J190            	0.016293    	Centre 	;            
+ J190            	0.012740    	Centre 	;            
+ J190            	0.022967    	Centre 	;            
+ J190            	0.011007    	Centre 	;            
+ J190            	0.023140    	Centre 	;            
+ J190            	0.016640    	Centre 	;            
+ J190            	0.023660    	Centre 	;            
+ J190            	0.008233    	Centre 	;            
+ J190            	0.033280    	Centre 	;            
+ J190            	0.008147    	Centre 	;            
+ J191            	0.029033    	Centre 	;            
+ J191            	0.011353    	Centre 	;            
+ J191            	0.000867    	Centre 	;            
+ J191            	0.010313    	Centre 	;            
+ J191            	0.023487    	Centre 	;            
+ J191            	0.041860    	Centre 	;            
+ J191            	0.034840    	Centre 	;            
+ J191            	0.027213    	Centre 	;            
+ J191            	0.008320    	Centre 	;            
+ J192            	0.049573    	Centre 	;            
+ J192            	0.015860    	Centre 	;            
+ J193            	0.000000    	Centre 	;            
+ J193            	0.164667    	Centre 	;            
+ J193            	0.268840    	Centre 	;            
+ J193            	0.064220    	Centre 	;            
+ J196            	0.000000    	Centre 	;            
+ J196            	0.012307    	Centre 	;            
+ J196            	0.007973    	Centre 	;            
+ J197            	0.042813    	Centre 	;            
+ J197            	0.008060    	Centre 	;            
+ J197            	0.020453    	Centre 	;            
+ J197            	0.000000    	Centre 	;            
+ J197            	0.020887    	Centre 	;            
+ J197            	0.005460    	Centre 	;            
+ J197            	0.018027    	Centre 	;            
+ J197            	0.033453    	Centre 	;            
+ J197            	0.008060    	Centre 	;            
+ J197            	0.024267    	Centre 	;            
+ J197            	0.021407    	Centre 	;            
+ J197            	0.000000    	Centre 	;            
+ J197            	0.007973    	Centre 	;            
+ J197            	0.074793    	Centre 	;            
+ J197            	0.065953    	Centre 	;            
+ J197            	0.012740    	Centre 	;            
+ J197            	0.008320    	Centre 	;            
+ J200            	0.026347    	Centre 	;            
+ J200            	0.000693    	Centre 	;            
+ J202            	0.019847    	Centre 	;            
+ J202            	0.000000    	Centre 	;            
+ J202            	0.036053    	Centre 	;            
+ J202            	0.000173    	Centre 	;            
+ J202            	0.030420    	Centre 	;            
+ J203            	0.046107    	Centre 	;            
+ J203            	0.000000    	Centre 	;            
+ J203            	0.031027    	Centre 	;            
+ J203            	0.000000    	Centre 	;            
+ J203            	0.046973    	Centre 	;            
+ J203            	0.036660    	Centre 	;            
+ J203            	0.035187    	Centre 	;            
+ J203            	0.047580    	Centre 	;            
+ J208            	0.005980    	Centre 	;            
+ J208            	0.120987    	Centre 	;            
+ J208            	0.011960    	Centre 	;            
+ J208            	0.082680    	Centre 	;            
+ J208            	0.009273    	Centre 	;            
+ J208            	0.000000    	Centre 	;            
+ J208            	0.028427    	Centre 	;            
+ J208            	0.000000    	Centre 	;            
+ J208            	0.046020    	Centre 	;            
+ J208            	0.077827    	Centre 	;            
+ J208            	0.007800    	Centre 	;            
+ J208            	0.006153    	Centre 	;            
+ J208            	0.032673    	Centre 	;            
+ J208            	0.038220    	Centre 	;            
+ J208            	0.042900    	Centre 	;            
+ J208            	0.008927    	Centre 	;            
+ J208            	0.000000    	Centre 	;            
+ J208            	0.042987    	Centre 	;            
+ J208            	0.011960    	Centre 	;            
+ J213            	0.012133    	Centre 	;            
+ J213            	0.010227    	Centre 	;            
+ J213            	0.004680    	Centre 	;            
+ J213            	0.013867    	Centre 	;            
+ J213            	0.080340    	Centre 	;            
+ J213            	0.009360    	Centre 	;            
+ J213            	0.020280    	Centre 	;            
+ J214            	0.022360    	Centre 	;            
+ J214            	0.018807    	Centre 	;            
+ J214            	0.006587    	Centre 	;            
+ J214            	0.009620    	Centre 	;            
+ J214            	0.000000    	Centre 	;            
+ J214            	0.000000    	Centre 	;            
+ J215            	0.017593    	Centre 	;            
+ J215            	0.010227    	Centre 	;            
+ J218            	0.006847    	Centre 	;            
+ J218            	0.013520    	Centre 	;            
+ J218            	0.014820    	Centre 	;            
+ J218            	0.013000    	Centre 	;            
+ J218            	0.009707    	Centre 	;            
+ J218            	0.018980    	Centre 	;            
+ J218            	0.008060    	Centre 	;            
+ J220            	0.046107    	Centre 	;            
+ J220            	0.018027    	Centre 	;            
+ J220            	0.031893    	Centre 	;            
+ J220            	0.024700    	Centre 	;            
+ J220            	0.000000    	Centre 	;            
+ J220            	0.020107    	Centre 	;            
+ J223            	0.011787    	Centre 	;            
+ J223            	0.015860    	Centre 	;            
+ J223            	0.017333    	Centre 	;            
+ J223            	0.049313    	Centre 	;            
+ J223            	0.051653    	Centre 	;            
+ J223            	0.008667    	Centre 	;            
+ J224            	0.021753    	Centre 	;            
+ J224            	0.007280    	Centre 	;            
+ J224            	0.006413    	Centre 	;            
+ J224            	0.019327    	Centre 	;            
+ J224            	0.015687    	Centre 	;            
+ J224            	0.017767    	Centre 	;            
+ J224            	0.025913    	Centre 	;            
+ J226            	0.007020    	Centre 	;            
+ J226            	0.018720    	Centre 	;            
+ J226            	0.019847    	Centre 	;            
+ J226            	0.017420    	Centre 	;            
+ J226            	0.012567    	Centre 	;            
+ J226            	0.024440    	Centre 	;            
+ J226            	0.012047    	Centre 	;            
+ J226            	0.035533    	Centre 	;            
+ J226            	0.008580    	Centre 	;            
+ J233            	0.028773    	Centre 	;            
+ J233            	0.009447    	Centre 	;            
+ J233            	0.006847    	Centre 	;            
+ J233            	0.024440    	Centre 	;            
+ J233            	0.015860    	Centre 	;            
+ J233            	0.007193    	Centre 	;            
+ J233            	0.025220    	Centre 	;            
+ J233            	0.015427    	Centre 	;            
+ J233            	0.023660    	Centre 	;            
+ J233            	0.012827    	Centre 	;            
+ J233            	0.018807    	Centre 	;            
+ J233            	0.061793    	Centre 	;            
+ J233            	0.012480    	Centre 	;            
+ J233            	0.004940    	Centre 	;            
+ J233            	0.000000    	Centre 	;            
+ J233            	0.009013    	Centre 	;            
+ J234            	0.029033    	Centre 	;            
+ J234            	0.001560    	Centre 	;            
+ J234            	0.010920    	Centre 	;            
+ J234            	0.000000    	Centre 	;            
+ J234            	0.011267    	Centre 	;            
+ J235            	0.005633    	Centre 	;            
+ J235            	0.023747    	Centre 	;            
+ J235            	0.064393    	Centre 	;            
+ J235            	0.004940    	Centre 	;            
+ J235            	0.005893    	Centre 	;            
+ J235            	0.005113    	Centre 	;            
+ J235            	0.027733    	Centre 	;            
+ J235            	0.000000    	Centre 	;            
+ J235            	0.000000    	Centre 	;            
+ J240            	0.010660    	Centre 	;            
+ J240            	0.022273    	Centre 	;            
+ J240            	0.017507    	Centre 	;            
+ J240            	0.023660    	Centre 	;            
+ J240            	0.004593    	Centre 	;            
+ J240            	0.009620    	Centre 	;            
+ J240            	0.003033    	Centre 	;            
+ J246            	0.000000    	Centre 	;            
+ J246            	0.000000    	Centre 	;            
+ J246            	0.000000    	Centre 	;            
+ J256            	0.000000    	Centre 	;            
+ J256            	0.000000    	Centre 	;            
+ J256            	0.000000    	Centre 	;            
+ J256            	0.000000    	Centre 	;            
+ J256            	0.000000    	Centre 	;            
+ J256            	0.000000    	Centre 	;            
+ J256            	0.000000    	Centre 	;            
+ J256            	0.003207    	Centre 	;            
+ J256            	0.022013    	Centre 	;            
+ J256            	0.000000    	Centre 	;            
+ J261            	0.021667    	Centre 	;            
+ J261            	0.027820    	Centre 	;            
+ J261            	0.018720    	Centre 	;            
+ J261            	0.032153    	Centre 	;            
+ J261            	0.003380    	Centre 	;            
+ J261            	0.006327    	Centre 	;            
+ J261            	0.035100    	Centre 	;            
+ J261            	0.000000    	Centre 	;            
+ J261            	0.033193    	Centre 	;            
+ J261            	0.022447    	Centre 	;            
+ J261            	0.025307    	Centre 	;            
+ J261            	0.048273    	Centre 	;            
+ J261            	0.010833    	Centre 	;            
+ J261            	0.029640    	Centre 	;            
+ J261            	0.009533    	Centre 	;            
+ J261            	0.029727    	Centre 	;            
+ J261            	0.026520    	Centre 	;            
+ J261            	0.017160    	Centre 	;            
+ J261            	0.009533    	Centre 	;            
+ J261            	0.008580    	Centre 	;            
+ J261            	0.000000    	Centre 	;            
+ J261            	0.017680    	Centre 	;            
+ J262            	0.004940    	Centre 	;            
+ J262            	0.015080    	Centre 	;            
+ J262            	0.023660    	Centre 	;            
+ J262            	0.020107    	Centre 	;            
+ J262            	0.030160    	Centre 	;            
+ J262            	0.012393    	Centre 	;            
+ J262            	0.004507    	Centre 	;            
+ J262            	0.022707    	Centre 	;            
+ J262            	0.013693    	Centre 	;            
+ J262            	0.009360    	Centre 	;            
+ J262            	0.030853    	Centre 	;            
+ J264            	0.006587    	Centre 	;            
+ J264            	0.003033    	Centre 	;            
+ J264            	0.040993    	Centre 	;            
+ J264            	0.021060    	Centre 	;            
+ J265            	0.022187    	Centre 	;            
+ J265            	0.001213    	Centre 	;            
+ J265            	0.103220    	Centre 	;            
+ J265            	0.032067    	Centre 	;            
+ J265            	0.036487    	Centre 	;            
+ J265            	0.098280    	Centre 	;            
+ J266            	0.000953    	Centre 	;            
+ J266            	0.030593    	Centre 	;            
+ J266            	0.025393    	Centre 	;            
+ J266            	0.036140    	Centre 	;            
+ J266            	0.027300    	Centre 	;            
+ J266            	0.001907    	Centre 	;            
+ J266            	0.025133    	Centre 	;            
+ J266            	0.035100    	Centre 	;            
+ J266            	0.028600    	Centre 	;            
+ J266            	0.000000    	Centre 	;            
+ J266            	0.005027    	Centre 	;            
+ J266            	0.019067    	Centre 	;            
+ J266            	0.015860    	Centre 	;            
+ J266            	0.046020    	Centre 	;            
+ J266            	0.031633    	Centre 	;            
+ J266            	0.055033    	Centre 	;            
+ J266            	0.021927    	Centre 	;            
+ J266            	0.020540    	Centre 	;            
+ J266            	0.013000    	Centre 	;            
+ J268            	0.042207    	Centre 	;            
+ J268            	0.037353    	Centre 	;            
+ J268            	0.018633    	Centre 	;            
+ J268            	0.005720    	Centre 	;            
+ J268            	0.066473    	Centre 	;            
+ J268            	0.018027    	Centre 	;            
+ J268            	0.004680    	Centre 	;            
+ J268            	0.016813    	Centre 	;            
+ J268            	0.056940    	Centre 	;            
+ J268            	0.019933    	Centre 	;            
+ J268            	0.018807    	Centre 	;            
+ J268            	0.006673    	Centre 	;            
+ J268            	0.005460    	Centre 	;            
+ J268            	0.024700    	Centre 	;            
+ J268            	0.010053    	Centre 	;            
+ J268            	0.026087    	Centre 	;            
+ J268            	0.037613    	Centre 	;            
+ J269            	0.020627    	Centre 	;            
+ J269            	0.013693    	Centre 	;            
+ J269            	0.027127    	Centre 	;            
+ J269            	0.029987    	Centre 	;            
+ J269            	0.001820    	Centre 	;            
+ J269            	0.000607    	Centre 	;            
+ J269            	0.008667    	Centre 	;            
+ J269            	0.013867    	Centre 	;            
+ J269            	0.028253    	Centre 	;            
+ J269            	0.015167    	Centre 	;            
+ J269            	0.034840    	Centre 	;            
+ J269            	0.000000    	Centre 	;            
+ J269            	0.224380    	Centre 	;            
+ J269            	0.016987    	Centre 	;            
+ J269            	0.004940    	Centre 	;            
+ J269            	0.010833    	Centre 	;            
+ J269            	0.019933    	Centre 	;            
+ J269            	0.016293    	Centre 	;            
+ J269            	0.020193    	Centre 	;            
+ J269            	0.027733    	Centre 	;            
+ J269            	0.034667    	Centre 	;            
+ J271            	0.028253    	Centre 	;            
+ J271            	0.031547    	Centre 	;            
+ J271            	0.000433    	Centre 	;            
+ J271            	0.043507    	Centre 	;            
+ J271            	0.017420    	Centre 	;            
+ J271            	0.017420    	Centre 	;            
+ J271            	0.024787    	Centre 	;            
+ J271            	0.084933    	Centre 	;            
+ J271            	0.043160    	Centre 	;            
+ J274            	0.014560    	Centre 	;            
+ J274            	0.006327    	Centre 	;            
+ J274            	0.013953    	Centre 	;            
+ J276            	0.063007    	Centre 	;            
+ J276            	0.033367    	Centre 	;            
+ J276            	0.011527    	Centre 	;            
+ J276            	0.016120    	Centre 	;            
+ J276            	0.001040    	Centre 	;            
+ J277            	0.010140    	Centre 	;            
+ J277            	0.021233    	Centre 	;            
+ J278            	0.006500    	Centre 	;            
+ J278            	0.000000    	Centre 	;            
+ J278            	0.091000    	Centre 	;            
+ J278            	0.000693    	Centre 	;            
+ J278            	0.038220    	Centre 	;            
+ J278            	0.028253    	Centre 	;            
+ J278            	0.009707    	Centre 	;            
+ J279            	0.045240    	Centre 	;            
+ J279            	0.045760    	Centre 	;            
+ J279            	0.003380    	Centre 	;            
+ J279            	0.019933    	Centre 	;            
+ J279            	0.002167    	Centre 	;            
+ J279            	0.012740    	Centre 	;            
+ J281            	0.047233    	Centre 	;            
+ J281            	0.021060    	Centre 	;            
+ J281            	0.017767    	Centre 	;            
+ J281            	0.011267    	Centre 	;            
+ J281            	0.009187    	Centre 	;            
+ J281            	0.018027    	Centre 	;            
+ J281            	0.123760    	Centre 	;            
+ J281            	0.028427    	Centre 	;            
+ J285            	0.018980    	Centre 	;            
+ J285            	0.000000    	Centre 	;            
+ J285            	0.010400    	Centre 	;            
+ J285            	0.019760    	Centre 	;            
+ J285            	0.018980    	Centre 	;            
+ J285            	0.010660    	Centre 	;            
+ J285            	0.023227    	Centre 	;            
+ J285            	0.018113    	Centre 	;            
+ J285            	0.037180    	Centre 	;            
+ J297            	0.011700    	Centre 	;            
+ J297            	0.000000    	Centre 	;            
+ J297            	0.035187    	Centre 	;            
+ J299            	0.056507    	Centre 	;            
+ J299            	0.230447    	Centre 	;            
+ J299            	0.095333    	Centre 	;            
+ J299            	0.132687    	Centre 	;            
+ J299            	0.017593    	Centre 	;            
+ J299            	0.031027    	Centre 	;            
+ J299            	0.000000    	Centre 	;            
+ J299            	0.010313    	Centre 	;            
+ J299            	0.006153    	Centre 	;            
+ J299            	0.002600    	Centre 	;            
+ J299            	0.168047    	Centre 	;            
+ J299            	0.005980    	Centre 	;            
+ J299            	0.009187    	Centre 	;            
+ J299            	0.052693    	Centre 	;            
+ J299            	0.023053    	Centre 	;            
+ J300            	0.014733    	Centre 	;            
+ J300            	0.000000    	Centre 	;            
+ J308            	0.000000    	Centre 	;            
+ J308            	0.000867    	Centre 	;            
+ J310            	0.017767    	Centre 	;            
+ J310            	0.001040    	Centre 	;            
+ J310            	0.067253    	Centre 	;            
+ J310            	0.025393    	Centre 	;            
+ J310            	0.000000    	Centre 	;            
+ J310            	0.018373    	Centre 	;            
+ J310            	0.046020    	Centre 	;            
+ J310            	0.043420    	Centre 	;            
+ J310            	0.018720    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J315            	0.000000    	Centre 	;            
+ J316            	0.009533    	Centre 	;            
+ J316            	0.024440    	Centre 	;            
+ J316            	0.052000    	Centre 	;            
+ J316            	0.006847    	Centre 	;            
+ J316            	0.000000    	Centre 	;            
+ J316            	0.004333    	Centre 	;            
+ J316            	0.063700    	Centre 	;            
+ J316            	0.012740    	Centre 	;            
+ J316            	0.011007    	Centre 	;            
+ J316            	0.045760    	Centre 	;            
+ J316            	0.001907    	Centre 	;            
+ J316            	0.003293    	Centre 	;            
+ J316            	0.006847    	Centre 	;            
+ J316            	0.019240    	Centre 	;            
+ J316            	0.047407    	Centre 	;            
+ J316            	0.072280    	Centre 	;            
+ J319            	0.075573    	Centre 	;            
+ J319            	0.026347    	Centre 	;            
+ J321            	0.000000    	Centre 	;            
+ J321            	0.000000    	Centre 	;            
+ J321            	0.000000    	Centre 	;            
+ J325            	0.005113    	Centre 	;            
+ J325            	0.016467    	Centre 	;            
+ J325            	0.000000    	Centre 	;            
+ J326            	0.017767    	Centre 	;            
+ J326            	0.001473    	Centre 	;            
+ J326            	0.076007    	Centre 	;            
+ J329            	0.024613    	Centre 	;            
+ J329            	0.052087    	Centre 	;            
+ J329            	0.158253    	Centre 	;            
+ J329            	0.070807    	Centre 	;            
+ J329            	0.000000    	Centre 	;            
+ J333            	0.000000    	Centre 	;            
+ J333            	0.026953    	Centre 	;            
+ J334            	0.009187    	Centre 	;            
+ J334            	0.007367    	Centre 	;            
+ J334            	0.081207    	Centre 	;            
+ J334            	0.000000    	Centre 	;            
+ J336            	0.099667    	Centre 	;            
+ J336            	0.020887    	Centre 	;            
+ J336            	0.039693    	Centre 	;            
+ J336            	0.282360    	Centre 	;            
+ J336            	0.089267    	Centre 	;            
+ J336            	0.031027    	Centre 	;            
+ J336            	0.018807    	Centre 	;            
+ J339            	0.000000    	Centre 	;            
+ J339            	0.041167    	Centre 	;            
+ J339            	0.014040    	Centre 	;            
+ J339            	0.042033    	Centre 	;            
+ J339            	0.038133    	Centre 	;            
+ J339            	0.008927    	Centre 	;            
+ J339            	0.000000    	Centre 	;            
+ J339            	0.000000    	Centre 	;            
+ J339            	0.097067    	Centre 	;            
+ J340            	0.084153    	Centre 	;            
+ J340            	0.033540    	Centre 	;            
+ J340            	0.007973    	Centre 	;            
+ J340            	0.009620    	Centre 	;            
+ J340            	0.013173    	Centre 	;            
+ J340            	0.019500    	Centre 	;            
+ J341            	0.005893    	Centre 	;            
+ J341            	0.000000    	Centre 	;            
+ J341            	0.041947    	Centre 	;            
+ J341            	0.000000    	Centre 	;            
+ J341            	0.021840    	Centre 	;            
+ J341            	0.034060    	Centre 	;            
+ J343            	0.026867    	Centre 	;            
+ J343            	0.031373    	Centre 	;            
+ J349            	0.002600    	Centre 	;            
+ J349            	0.011960    	Centre 	;            
+ J349            	0.019240    	Centre 	;            
+ J349            	0.024007    	Centre 	;            
+ J350            	0.013000    	Centre 	;            
+ J350            	0.010660    	Centre 	;            
+ J351            	0.000693    	Centre 	;            
+ J351            	0.006413    	Centre 	;            
+ J351            	0.018893    	Centre 	;            
+ J351            	0.066213    	Centre 	;            
+ J356            	0.022793    	Centre 	;            
+ J356            	0.187547    	Centre 	;            
+ J356            	0.052260    	Centre 	;            
+ J356            	0.040213    	Centre 	;            
+ J356            	0.104780    	Centre 	;            
+ J356            	0.098020    	Centre 	;            
+ J356            	0.000000    	Centre 	;            
+ J356            	0.009707    	Centre 	;            
+ J360            	0.003727    	Centre 	;            
+ J360            	0.004940    	Centre 	;            
+ J360            	0.062660    	Centre 	;            
+ J360            	0.004420    	Centre 	;            
+ J362            	0.012307    	Centre 	;            
+ J362            	0.000000    	Centre 	;            
+ J362            	0.015167    	Centre 	;            
+ J362            	0.024613    	Centre 	;            
+ J362            	0.015773    	Centre 	;            
+ J362            	0.000000    	Centre 	;            
+ J362            	0.010660    	Centre 	;            
+ J362            	0.018633    	Centre 	;            
+ J364            	0.016553    	Centre 	;            
+ J364            	0.036053    	Centre 	;            
+ J364            	0.000173    	Centre 	;            
+ J364            	0.060493    	Centre 	;            
+ J364            	0.019673    	Centre 	;            
+ J364            	0.009360    	Centre 	;            
+ J364            	0.006847    	Centre 	;            
+ J364            	0.038653    	Centre 	;            
+ J364            	0.012827    	Centre 	;            
+ J364            	0.028340    	Centre 	;            
+ J366            	0.000000    	Centre 	;            
+ J366            	0.000000    	Centre 	;            
+ J367            	0.000000    	Centre 	;            
+ J367            	0.000000    	Centre 	;            
+ J367            	0.000000    	Centre 	;            
+ J367            	0.000000    	Centre 	;            
+ J367            	0.000000    	Centre 	;            
+ J367            	0.000000    	Centre 	;            
+ J367            	0.000000    	Centre 	;            
+ J367            	0.000000    	Centre 	;            
+ J367            	0.000000    	Centre 	;            
+ J369            	0.014300    	Centre 	;            
+ J369            	0.000693    	Centre 	;            
+ J369            	0.021667    	Centre 	;            
+ J369            	0.000000    	Centre 	;            
+ J369            	0.041167    	Centre 	;            
+ J369            	0.003033    	Centre 	;            
+ J369            	0.061013    	Centre 	;            
+ J369            	0.001127    	Centre 	;            
+ J369            	0.019847    	Centre 	;            
+ J369            	0.033367    	Centre 	;            
+ J370            	0.016380    	Centre 	;            
+ J370            	0.000000    	Centre 	;            
+ J370            	0.034233    	Centre 	;            
+ J370            	0.009187    	Centre 	;            
+ J371            	0.001993    	Centre 	;            
+ J371            	0.025567    	Centre 	;            
+ J371            	0.028513    	Centre 	;            
+ J371            	0.034493    	Centre 	;            
+ J371            	0.031720    	Centre 	;            
+ J382            	0.028947    	Centre 	;            
+ J382            	0.023487    	Centre 	;            
+ J382            	0.000000    	Centre 	;            
+ J382            	0.104520    	Centre 	;            
+ J384            	0.071587    	Centre 	;            
+ J384            	0.024440    	Centre 	;            
+ J384            	0.008493    	Centre 	;            
+ J384            	0.009447    	Centre 	;            
+ J384            	0.025393    	Centre 	;            
+ J384            	0.021840    	Centre 	;            
+ J384            	0.023833    	Centre 	;            
+ J399            	0.034233    	Centre 	;            
+ J399            	0.012133    	Centre 	;            
+ J399            	0.044113    	Centre 	;            
+ J399            	0.032240    	Centre 	;            
+ J399            	0.015947    	Centre 	;            
+ J399            	0.011353    	Centre 	;            
+ J399            	0.020107    	Centre 	;            
+ J399            	0.004160    	Centre 	;            
+ J399            	0.011700    	Centre 	;            
+ J399            	0.013953    	Centre 	;            
+ J399            	0.004247    	Centre 	;            
+ J401            	0.009707    	Centre 	;            
+ J401            	0.022793    	Centre 	;            
+ J401            	0.017073    	Centre 	;            
+ J401            	0.011093    	Centre 	;            
+ J401            	0.000000    	Centre 	;            
+ J401            	0.019067    	Centre 	;            
+ J401            	0.009793    	Centre 	;            
+ J401            	0.011700    	Centre 	;            
+ J401            	0.029900    	Centre 	;            
+ J401            	0.009013    	Centre 	;            
+ J401            	0.011527    	Centre 	;            
+ J401            	0.017420    	Centre 	;            
+ J402            	0.018807    	Centre 	;            
+ J402            	0.011007    	Centre 	;            
+ J402            	0.051307    	Centre 	;            
+ J402            	0.016900    	Centre 	;            
+ J402            	0.023400    	Centre 	;            
+ J404            	0.010747    	Centre 	;            
+ J404            	0.022880    	Centre 	;            
+ J404            	0.014300    	Centre 	;            
+ J404            	0.001820    	Centre 	;            
+ J404            	0.000693    	Centre 	;            
+ J405            	0.028253    	Centre 	;            
+ J405            	0.023487    	Centre 	;            
+ J405            	0.034407    	Centre 	;            
+ J405            	0.033453    	Centre 	;            
+ J405            	0.016207    	Centre 	;            
+ J405            	0.032327    	Centre 	;            
+ J405            	0.051047    	Centre 	;            
+ J405            	0.025567    	Centre 	;            
+ J405            	0.007020    	Centre 	;            
+ J408            	0.000000    	Centre 	;            
+ J408            	0.000000    	Centre 	;            
+ J408            	0.043853    	Centre 	;            
+ J408            	0.005633    	Centre 	;            
+ J408            	0.003033    	Centre 	;            
+ J408            	0.053907    	Centre 	;            
+ J408            	0.004593    	Centre 	;            
+ J408            	0.023920    	Centre 	;            
+ J408            	0.015600    	Centre 	;            
+ J408            	0.002340    	Centre 	;            
+ J408            	0.014473    	Centre 	;            
+ J408            	0.042207    	Centre 	;            
+ J408            	0.034147    	Centre 	;            
+ J408            	0.013520    	Centre 	;            
+ J408            	0.019067    	Centre 	;            
+ J411            	0.093427    	Centre 	;            
+ J411            	0.000000    	Centre 	;            
+ J411            	0.012567    	Centre 	;            
+ J411            	0.000000    	Centre 	;            
+ J411            	0.008147    	Centre 	;            
+ J411            	0.006153    	Centre 	;            
+ J411            	0.007627    	Centre 	;            
+ J411            	0.022533    	Centre 	;            
+ J411            	0.008753    	Centre 	;            
+ J415            	0.037527    	Centre 	;            
+ J415            	0.024613    	Centre 	;            
+ J417            	0.000000    	Centre 	;            
+ J417            	0.008753    	Centre 	;            
+ J417            	0.010053    	Centre 	;            
+ J417            	0.016640    	Centre 	;            
+ J417            	0.016293    	Centre 	;            
+ J417            	0.031720    	Centre 	;            
+ J417            	0.018200    	Centre 	;            
+ J417            	0.045847    	Centre 	;            
+ J417            	0.037960    	Centre 	;            
+ J417            	0.023227    	Centre 	;            
+ J417            	0.007107    	Centre 	;            
+ J417            	0.018980    	Centre 	;            
+ J417            	0.004940    	Centre 	;            
+ J417            	0.017680    	Centre 	;            
+ J417            	0.013260    	Centre 	;            
+ J417            	0.005807    	Centre 	;            
+ J417            	0.000000    	Centre 	;            
+ J417            	0.117867    	Centre 	;            
+ J418            	0.102613    	Centre 	;            
+ J418            	0.022013    	Centre 	;            
+ J418            	0.005893    	Centre 	;            
+ J418            	0.033627    	Centre 	;            
+ J418            	0.022533    	Centre 	;            
+ J418            	0.000000    	Centre 	;            
+ J418            	0.107467    	Centre 	;            
+ J418            	0.031893    	Centre 	;            
+ J418            	0.070720    	Centre 	;            
+ J418            	0.052000    	Centre 	;            
+ J418            	0.003987    	Centre 	;            
+ J418            	0.066473    	Centre 	;            
+ J418            	0.106860    	Centre 	;            
+ J418            	0.044027    	Centre 	;            
+ J418            	0.018460    	Centre 	;            
+ J418            	0.093340    	Centre 	;            
+ J418            	0.004507    	Centre 	;            
+ J428            	0.000000    	Centre 	;            
+ J428            	0.000000    	Centre 	;            
+ J428            	0.000000    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J432            	0.067773    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J432            	0.000000    	Centre 	;            
+ J433            	0.000000    	Centre 	;            
+ J433            	0.000000    	Centre 	;            
+ J433            	0.000000    	Centre 	;            
+ J433            	0.000000    	Centre 	;            
+ J437            	0.003120    	Centre 	;            
+ J437            	0.000000    	Centre 	;            
+ J437            	0.055120    	Centre 	;            
+ J437            	0.030073    	Centre 	;            
+ J438            	0.052260    	Centre 	;            
+ J438            	0.073493    	Centre 	;            
+ J438            	0.028687    	Centre 	;            
+ J438            	0.042813    	Centre 	;            
+ J442            	0.007540    	Centre 	;            
+ J442            	0.029813    	Centre 	;            
+ J442            	0.017940    	Centre 	;            
+ J442            	0.023053    	Centre 	;            
+ J442            	0.020280    	Centre 	;            
+ J442            	0.013347    	Centre 	;            
+ J442            	0.026260    	Centre 	;            
+ J442            	0.038047    	Centre 	;            
+ J442            	0.009273    	Centre 	;            
+ J442            	0.000607    	Centre 	;            
+ J442            	0.003813    	Centre 	;            
+ J444            	0.005287    	Centre 	;            
+ J444            	0.007367    	Centre 	;            
+ J445            	0.025047    	Centre 	;            
+ J445            	0.022447    	Centre 	;            
+ J445            	0.014387    	Centre 	;            
+ J445            	0.017160    	Centre 	;            
+ J445            	0.023487    	Centre 	;            
+ J445            	0.003553    	Centre 	;            
+ J445            	0.012913    	Centre 	;            
+ J445            	0.025047    	Centre 	;            
+ J445            	0.000000    	Centre 	;            
+ J445            	0.000000    	Centre 	;            
+ J445            	0.021060    	Centre 	;            
+ J445            	0.012307    	Centre 	;            
+ J445            	0.000000    	Centre 	;            
+ J445            	0.005200    	Centre 	;            
+ J445            	0.021233    	Centre 	;            
+ J445            	0.006760    	Centre 	;            
+ J445            	0.012827    	Centre 	;            
+ J449            	0.007973    	Centre 	;            
+ J449            	0.021407    	Centre 	;            
+ J449            	0.094380    	Centre 	;            
+ J462            	0.011527    	Centre 	;            
+ J462            	0.009967    	Centre 	;            
+ J462            	0.014907    	Centre 	;            
+ J462            	0.015427    	Centre 	;            
+ J468            	0.000000    	Centre 	;            
+ J468            	0.000000    	Centre 	;            
+ J468            	0.000000    	Centre 	;            
+ J468            	0.000000    	Centre 	;            
+ J468            	0.000000    	Centre 	;            
+ J468            	0.000000    	Centre 	;            
+ J468            	0.000000    	Centre 	;            
+ J468            	0.000000    	Centre 	;            
+ J469            	0.003467    	Centre 	;            
+ J469            	0.081380    	Centre 	;            
+ J469            	0.059887    	Centre 	;            
+ J469            	0.000000    	Centre 	;            
+ J469            	0.041427    	Centre 	;            
+ J469            	0.322400    	Centre 	;            
+ J469            	0.038220    	Centre 	;            
+ J469            	0.009447    	Centre 	;            
+ J472            	0.000000    	Centre 	;            
+ J472            	0.029900    	Centre 	;            
+ J472            	0.037180    	Centre 	;            
+ J477            	0.027733    	Centre 	;            
+ J477            	0.011353    	Centre 	;            
+ J477            	0.125667    	Centre 	;            
+ J481            	0.005633    	Centre 	;            
+ J481            	0.012047    	Centre 	;            
+ J481            	0.016553    	Centre 	;            
+ J481            	0.029207    	Centre 	;            
+ J481            	0.030160    	Centre 	;            
+ J481            	0.031113    	Centre 	;            
+ J481            	0.005807    	Centre 	;            
+ J481            	0.004247    	Centre 	;            
+ J481            	0.020540    	Centre 	;            
+ J481            	0.027473    	Centre 	;            
+ J481            	0.017160    	Centre 	;            
+ J481            	0.013867    	Centre 	;            
+ J481            	0.000000    	Centre 	;            
+ J481            	0.051047    	Centre 	;            
+ J481            	0.011787    	Centre 	;            
+ J481            	0.005633    	Centre 	;            
+ J481            	0.007020    	Centre 	;            
+ J481            	0.031980    	Centre 	;            
+ J481            	0.023400    	Centre 	;            
+ J481            	0.032760    	Centre 	;            
+ J484            	0.058847    	Centre 	;            
+ J484            	0.011613    	Centre 	;            
+ J484            	0.052087    	Centre 	;            
+ J484            	0.030507    	Centre 	;            
+ J485            	0.029987    	Centre 	;            
+ J485            	0.016813    	Centre 	;            
+ J485            	0.012133    	Centre 	;            
+ J486            	0.011093    	Centre 	;            
+ J486            	0.016207    	Centre 	;            
+ J486            	0.007800    	Centre 	;            
+ J486            	0.032153    	Centre 	;            
+ J487            	0.020107    	Centre 	;            
+ J487            	0.024700    	Centre 	;            
+ J487            	0.019760    	Centre 	;            
+ J487            	0.068467    	Centre 	;            
 
 [STATUS]
 ;ID              	Status/Setting
@@ -2175,22 +2175,22 @@
 [PATTERNS]
 ;ID              	Multipliers
 ;ID              	Multipliers
- P_StServaisCentreCS	0.564675    	0.617946    	0.617946    	0.692525    	0.633927    	0.751124    
- P_StServaisCentreCS	0.346263    	0.324954    	0.287664    	0.266356    	0.298319    	0.202430    
- P_StServaisCentreCS	0.186449    	0.165141    	0.229066    	0.149159    	0.047944    	0.532712    
- P_StServaisCentreCS	0.308973    	0.143832    	0.106542    	0.165141    	0.127851    	0.165141    
- P_StServaisCentreCS	0.111869    	0.245047    	0.277010    	0.372898    	0.809722    	0.873647    
- P_StServaisCentreCS	0.506076    	0.926919    	0.894956    	1.038788    	1.033461    	1.480939    
- P_StServaisCentreCS	1.491593    	1.214583    	1.512902    	1.480939    	1.784585    	1.662061    
- P_StServaisCentreCS	1.843183    	1.736641    	2.056268    	1.747295    	1.523556    	1.587481    
- P_StServaisCentreCS	1.363742    	1.614117    	1.534210    	1.544864    	1.502247    	1.923090    
- P_StServaisCentreCS	1.741968    	1.725986    	1.438322    	1.406359    	1.422341    	1.459630    
- P_StServaisCentreCS	1.459630    	1.337107    	1.246546    	1.155985    	1.454303    	1.070751    
- P_StServaisCentreCS	1.155985    	1.145330    	1.150658    	1.315798    	1.363742    	1.177293    
- P_StServaisCentreCS	1.395705    	1.289163    	1.235891    	1.214583    	1.054769    	1.235891    
- P_StServaisCentreCS	1.417013    	1.763276    	1.257200    	1.193275    	1.140003    	1.044115    
- P_StServaisCentreCS	0.980190    	0.889629    	0.916264    	0.964208    	0.926919    	1.022807    
- P_StServaisCentreCS	0.900283    	1.273181    	0.820376    	0.894956    	0.681871    	0.633927    
+ P_CentreCS	0.564675    	0.617946    	0.617946    	0.692525    	0.633927    	0.751124    
+ P_CentreCS	0.346263    	0.324954    	0.287664    	0.266356    	0.298319    	0.202430    
+ P_CentreCS	0.186449    	0.165141    	0.229066    	0.149159    	0.047944    	0.532712    
+ P_CentreCS	0.308973    	0.143832    	0.106542    	0.165141    	0.127851    	0.165141    
+ P_CentreCS	0.111869    	0.245047    	0.277010    	0.372898    	0.809722    	0.873647    
+ P_CentreCS	0.506076    	0.926919    	0.894956    	1.038788    	1.033461    	1.480939    
+ P_CentreCS	1.491593    	1.214583    	1.512902    	1.480939    	1.784585    	1.662061    
+ P_CentreCS	1.843183    	1.736641    	2.056268    	1.747295    	1.523556    	1.587481    
+ P_CentreCS	1.363742    	1.614117    	1.534210    	1.544864    	1.502247    	1.923090    
+ P_CentreCS	1.741968    	1.725986    	1.438322    	1.406359    	1.422341    	1.459630    
+ P_CentreCS	1.459630    	1.337107    	1.246546    	1.155985    	1.454303    	1.070751    
+ P_CentreCS	1.155985    	1.145330    	1.150658    	1.315798    	1.363742    	1.177293    
+ P_CentreCS	1.395705    	1.289163    	1.235891    	1.214583    	1.054769    	1.235891    
+ P_CentreCS	1.417013    	1.763276    	1.257200    	1.193275    	1.140003    	1.044115    
+ P_CentreCS	0.980190    	0.889629    	0.916264    	0.964208    	0.926919    	1.022807    
+ P_CentreCS	0.900283    	1.273181    	0.820376    	0.894956    	0.681871    	0.633927    
 ;
  P_DL0107        	1.126100    	0.849514    	0.943356    	0.755672    	0.740855    	0.691465    
  P_DL0107        	0.805063    	0.864331    	0.755672    	0.676648    	0.666770    	0.647013    
@@ -2260,22 +2260,22 @@
  P_DL0108        	1.150715    	1.115034    	1.079353    	1.034752    	1.007991    	0.999071    
  P_DL0108        	1.007991    	0.918788    	1.025832    	0.918788    	1.061513    	0.918788    
 ;
- P_StServaisCentreAll	0.698733    	0.735703    	0.732006    	0.787461    	0.746794    	0.828128    
- P_StServaisCentreAll	0.547156    	0.532368    	0.506489    	0.488004    	0.510186    	0.443640    
- P_StServaisCentreAll	0.436246    	0.421458    	0.465822    	0.406670    	0.340124    	0.672854    
- P_StServaisCentreAll	0.517580    	0.406670    	0.380791    	0.421458    	0.391882    	0.421458    
- P_StServaisCentreAll	0.384488    	0.476913    	0.499095    	0.561944    	0.868795    	0.913159    
- P_StServaisCentreAll	0.658066    	0.946432    	0.927947    	1.027766    	1.024069    	1.334617    
- P_StServaisCentreAll	1.342011    	1.149767    	1.353102    	1.334617    	1.545346    	1.460315    
- P_StServaisCentreAll	1.586013    	1.512073    	1.730196    	1.515770    	1.364193    	1.408557    
- P_StServaisCentreAll	1.253283    	1.427042    	1.371587    	1.375284    	1.345708    	1.641468    
- P_StServaisCentreAll	1.515770    	1.504679    	1.305041    	1.282859    	1.293950    	1.316132    
- P_StServaisCentreAll	1.319829    	1.234798    	1.171949    	1.109100    	1.316132    	1.049948    
- P_StServaisCentreAll	1.109100    	1.101706    	1.101706    	1.220010    	1.253283    	1.123888    
- P_StServaisCentreAll	1.275465    	1.201525    	1.164555    	1.149767    	1.035160    	1.164555    
- P_StServaisCentreAll	1.290253    	1.530558    	1.179343    	1.131282    	1.098009    	1.031463    
- P_StServaisCentreAll	0.987099    	0.924250    	0.942735    	0.976008    	0.950129    	1.012978    
- P_StServaisCentreAll	0.931644    	1.190434    	0.872492    	0.927947    	0.776370    	0.746794    
+ Centre	0.698733    	0.735703    	0.732006    	0.787461    	0.746794    	0.828128    
+ Centre	0.547156    	0.532368    	0.506489    	0.488004    	0.510186    	0.443640    
+ Centre	0.436246    	0.421458    	0.465822    	0.406670    	0.340124    	0.672854    
+ Centre	0.517580    	0.406670    	0.380791    	0.421458    	0.391882    	0.421458    
+ Centre	0.384488    	0.476913    	0.499095    	0.561944    	0.868795    	0.913159    
+ Centre	0.658066    	0.946432    	0.927947    	1.027766    	1.024069    	1.334617    
+ Centre	1.342011    	1.149767    	1.353102    	1.334617    	1.545346    	1.460315    
+ Centre	1.586013    	1.512073    	1.730196    	1.515770    	1.364193    	1.408557    
+ Centre	1.253283    	1.427042    	1.371587    	1.375284    	1.345708    	1.641468    
+ Centre	1.515770    	1.504679    	1.305041    	1.282859    	1.293950    	1.316132    
+ Centre	1.319829    	1.234798    	1.171949    	1.109100    	1.316132    	1.049948    
+ Centre	1.109100    	1.101706    	1.101706    	1.220010    	1.253283    	1.123888    
+ Centre	1.275465    	1.201525    	1.164555    	1.149767    	1.035160    	1.164555    
+ Centre	1.290253    	1.530558    	1.179343    	1.131282    	1.098009    	1.031463    
+ Centre	0.987099    	0.924250    	0.942735    	0.976008    	0.950129    	1.012978    
+ Centre	0.931644    	1.190434    	0.872492    	0.927947    	0.776370    	0.746794    
 
 [CURVES]
 ;ID              	X-Value     	Y-Value
