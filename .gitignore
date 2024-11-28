@@ -174,4 +174,5 @@ networks/*.inp
 # Exclude all files in efavor except one test file
 efavor/*
 !efavor/e_FAVOR_test.xls
-!efavor/swde
+!efavor/swde_test
+!efavor/swde_case_study
